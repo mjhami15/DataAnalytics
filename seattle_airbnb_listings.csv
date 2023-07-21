@@ -1,0 +1,1007 @@
+price,review_scores_rating,number_of_reviews,security_deposit,cleaning_fee,neighborhood,property_type,room_type,accommodates,bathrooms,bedrooms,beds,host_response_time,host_response_rate,host_acceptance_rate,host_is_superhost,host_has_profile_pic,host_identity_verified
+300,100,24,500,95,Wallingford,House,Entire home/apt,5,1.5,3,3,within a few hours,1,1,t,t,t
+150,missing,0,missing,100,Wallingford,House,Entire home/apt,5,2,3,3,missing,missing,missing,f,t,f
+149,96,11,300,105,Wallingford,Apartment,Entire home/apt,6,1,2,3,within an hour,1,1,f,t,t
+95,95,79,150,40,Wallingford,Apartment,Entire home/apt,3,1,1,2,within an hour,1,1,f,t,t
+100,97,52,missing,missing,Wallingford,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+250,100,1,missing,missing,Wallingford,House,Entire home/apt,6,2,3,2,within an hour,1,1,f,t,f
+105,100,13,500,50,Wallingford,House,Private room,2,2,1,1,within a few hours,1,1,t,t,t
+74,87,20,100,15,Wallingford,House,Private room,2,1,1,1,within a day,1,missing,f,t,t
+140,99,30,250,65,Wallingford,House,Entire home/apt,2,1,1,1,within an hour,1,1,t,t,t
+130,97,14,350,50,Wallingford,Apartment,Entire home/apt,4,1,1,1,within an hour,1,1,t,t,f
+110,96,27,100,40,Wallingford,Apartment,Entire home/apt,2,1,1,1,within an hour,1,missing,f,t,f
+199,84,5,350,160,Wallingford,House,Entire home/apt,8,2,4,4,within an hour,1,1,f,t,t
+209,96,5,300,95,Wallingford,House,Entire home/apt,6,1.5,2,3,within an hour,1,1,f,t,t
+100,97,28,100,50,Wallingford,House,Entire home/apt,4,1,0,2,within an hour,1,1,t,t,t
+110,96,97,100,30,Wallingford,Apartment,Entire home/apt,4,1,1,1,within a few hours,0.9,1,f,t,t
+104,96,15,250,50,Wallingford,Apartment,Entire home/apt,2,1,1,2,within an hour,1,1,f,t,t
+200,100,3,missing,100,Wallingford,House,Entire home/apt,4,2,2,2,missing,missing,missing,f,t,t
+99,100,1,missing,35,Wallingford,House,Entire home/apt,4,1,0,2,within a few hours,1,1,f,t,f
+90,97,43,missing,13,Wallingford,House,Private room,2,1,1,1,within an hour,1,1,t,t,t
+135,97,71,200,30,Wallingford,Apartment,Entire home/apt,6,1,2,3,within a few hours,0.9,1,t,t,t
+122,96,9,100,50,Wallingford,House,Entire home/apt,6,1,2,3,within an hour,1,1,f,t,t
+80,93,3,missing,40,Wallingford,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+158,80,1,150,65,Wallingford,House,Entire home/apt,4,1,2,2,within an hour,1,1,f,t,t
+90,92,11,missing,10,Wallingford,Apartment,Entire home/apt,4,1,1,1,within a day,0.7,1,f,t,t
+100,100,1,missing,missing,Wallingford,Apartment,Entire home/apt,3,1,1,2,within a day,0.8,1,f,t,t
+89,95,4,300,90,Wallingford,House,Entire home/apt,4,1,1,2,within a day,1,missing,f,t,t
+125,93,12,100,50,Wallingford,House,Entire home/apt,4,1,2,2,within a few hours,1,1,f,t,t
+42,100,1,missing,missing,Wallingford,Apartment,Shared room,2,1,1,1,within a day,0.58,1,f,t,t
+65,97,61,200,40,Wallingford,House,Private room,2,1,1,1,within an hour,1,1,t,t,t
+100,94,49,95,40,Wallingford,House,Entire home/apt,4,1,1,2,within an hour,1,1,f,t,t
+40,missing,0,missing,15,Wallingford,House,Private room,1,1,1,1,within an hour,1,1,f,t,t
+185,missing,0,200,missing,Wallingford,House,Entire home/apt,6,1,3,3,within a few hours,1,1,f,t,t
+40,95,4,missing,35,Wallingford,Apartment,Private room,2,1,1,2,within a few hours,1,1,f,t,f
+70,100,4,missing,20,Wallingford,Apartment,Private room,2,1.5,1,1,within a day,0.5,1,f,t,f
+40,missing,0,350,35,Wallingford,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+70,missing,0,missing,missing,Wallingford,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+110,94,35,missing,40,Wallingford,Apartment,Entire home/apt,4,1,1,1,within a day,1,1,f,t,f
+99,96,10,400,100,Wallingford,Apartment,Entire home/apt,4,1,2,3,within an hour,1,1,t,t,f
+195,100,2,missing,75,Wallingford,House,Entire home/apt,6,1.5,3,4,within a few hours,1,1,f,t,t
+55,97,86,missing,25,Wallingford,House,Private room,2,2,1,1,within an hour,1,1,t,t,t
+90,missing,0,missing,missing,Wallingford,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,f,t,f
+119,92,17,missing,50,Wallingford,Apartment,Entire home/apt,4,1,1,1,within an hour,1,1,f,t,t
+175,99,26,100,missing,Wallingford,House,Entire home/apt,5,2,3,3,within a few hours,1,1,t,t,t
+65,100,7,missing,missing,Wallingford,House,Private room,2,1,1,1,within an hour,1,1,t,t,t
+75,93,11,missing,missing,Wallingford,Apartment,Private room,2,1,1,1,within an hour,1,missing,f,t,t
+126,95,12,350,65,Wallingford,House,Entire home/apt,4,1,2,2,within an hour,1,1,f,t,t
+70,99,63,300,missing,Wallingford,House,Private room,2,1,1,1,within an hour,1,1,f,t,t
+90,100,54,100,50,Wallingford,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,t,t,t
+129,87,28,missing,60,Wallingford,Apartment,Entire home/apt,2,1,1,1,a few days or more,0.43,1,f,t,t
+225,92,29,700,missing,Wallingford,House,Entire home/apt,12,2,5,6,within a few hours,1,1,f,t,t
+40,93,6,350,35,Wallingford,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+50,100,1,350,28,Wallingford,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+40,94,7,350,35,Wallingford,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+40,80,1,350,35,Wallingford,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+95,97,64,400,missing,Wallingford,Apartment,Entire home/apt,4,1,2,2,within a few hours,1,1,t,t,t
+175,97,39,missing,missing,Wallingford,Apartment,Entire home/apt,6,1,2,4,within an hour,1,1,f,t,t
+160,93,37,400,90,Wallingford,House,Entire home/apt,6,1,2,4,within a few hours,1,1,f,t,t
+40,90,2,350,35,Wallingford,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+40,missing,0,350,35,Wallingford,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+120,96,32,100,missing,Wallingford,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,t,t,f
+66,96,33,missing,70,Wallingford,House,Entire home/apt,4,1,1,2,within a day,0.88,1,t,t,t
+55,96,207,missing,missing,Wallingford,House,Private room,2,1,1,1,within a day,0.93,1,f,t,t
+350,missing,0,350,90,Wallingford,House,Entire home/apt,7,3,4,5,missing,missing,missing,f,t,f
+85,98,37,missing,20,Wallingford,House,Entire home/apt,2,1,0,1,within an hour,1,1,t,t,t
+175,90,45,missing,50,Wallingford,House,Entire home/apt,6,1,2,3,within a day,0.92,1,f,t,t
+105,80,1,missing,missing,Wallingford,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,f
+55,95,203,missing,10,Wallingford,House,Private room,3,1,1,3,within an hour,1,1,f,t,t
+150,97,6,300,75,Wallingford,House,Entire home/apt,5,1,2,2,within an hour,1,1,f,t,t
+40,93,6,350,35,Wallingford,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+59,93,182,missing,15,Wallingford,House,Private room,2,2,1,2,within a few hours,1,1,f,t,f
+80,73,3,missing,30,Wallingford,House,Private room,2,1,1,1,a few days or more,0.4,1,f,t,t
+200,80,3,missing,40,Wallingford,House,Entire home/apt,5,1,2,3,within a day,0.57,1,f,t,f
+60,91,14,missing,missing,Wallingford,House,Entire home/apt,3,1,0,1,within a day,0.92,1,f,t,t
+59,93,86,missing,15,Wallingford,House,Private room,2,1,1,1,within an hour,1,1,f,t,t
+575,100,5,500,175,Wallingford,House,Entire home/apt,8,3,4,5,within a few hours,1,1,f,t,t
+40,93,4,350,35,Wallingford,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+139,92,21,missing,25,Wallingford,House,Entire home/apt,2,1,1,1,within a few hours,1,1,f,t,t
+70,95,12,250,75,Wallingford,Apartment,Entire home/apt,4,1,1,2,within an hour,1,1,f,t,t
+85,94,35,missing,50,Wallingford,Apartment,Entire home/apt,4,1,1,1,within an hour,1,1,f,t,t
+259,missing,1,missing,155,Wallingford,Apartment,Entire home/apt,4,1,2,2,within a few hours,0.99,1,f,t,t
+39,missing,0,missing,missing,Wallingford,Apartment,Private room,3,1,1,1,within a day,1,1,f,t,f
+70,97,66,missing,missing,Wallingford,House,Private room,2,1.5,1,1,within an hour,1,1,t,t,t
+166,90,2,missing,209,Wallingford,House,Entire home/apt,6,1,2,4,within a day,0.88,1,f,t,t
+99,97,70,missing,missing,Wallingford,House,Entire home/apt,4,1,1,2,within a few hours,1,1,t,t,t
+110,92,25,100,20,Wallingford,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,t,t,t
+100,97,6,100,75,Wallingford,Apartment,Entire home/apt,4,1,1,2,within a few hours,1,1,f,t,t
+250,88,5,200,65,Wallingford,House,Entire home/apt,7,1,3,4,within a day,1,1,f,t,f
+150,90,2,400,120,Wallingford,House,Entire home/apt,4,1,1,2,within a few hours,1,1,f,t,t
+200,100,2,100,50,Wallingford,House,Entire home/apt,5,1,1,2,within a few hours,1,1,f,t,t
+95,80,1,300,75,Wallingford,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,t,t,t
+40,84,6,350,35,Wallingford,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+215,92,5,250,65,Wallingford,House,Entire home/apt,4,1,2,2,missing,missing,missing,f,t,t
+110,97,46,missing,15,Wallingford,Apartment,Entire home/apt,2,1,1,1,within a day,1,1,t,t,t
+249,80,1,300,100,Wallingford,House,Entire home/apt,5,1,3,3,missing,missing,missing,f,t,t
+295,97,41,300,95,Wallingford,House,Entire home/apt,8,2,3,3,missing,missing,missing,f,t,f
+90,93,52,200,40,Wallingford,Apartment,Entire home/apt,2,1,1,1,within a few hours,0.9,1,f,t,t
+40,missing,0,350,35,Wallingford,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+85,88,5,100,8,Wallingford,Apartment,Entire home/apt,2,1,0,1,within a day,0.71,1,f,t,f
+40,80,3,350,35,Wallingford,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+40,96,32,150,20,Wallingford,House,Private room,2,1.5,1,1,within a day,1,1,t,t,t
+245,100,1,350,150,Wallingford,House,Entire home/apt,8,2,4,4,within a few hours,1,1,f,t,f
+130,90,2,350,50,Wallingford,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,f
+210,93,6,missing,100,Wallingford,House,Entire home/apt,4,1.5,3,2,within a day,0.75,1,f,t,t
+439,91,11,399,99,Wallingford,House,Entire home/apt,6,2.5,2,3,within an hour,1,missing,f,t,f
+90,missing,0,missing,missing,Wallingford,House,Private room,1,1,1,1,within an hour,1,1,f,t,t
+95,90,13,100,82,Wallingford,Apartment,Entire home/apt,3,1,1,1,missing,missing,missing,f,t,t
+109,99,36,100,60,Wallingford,Apartment,Entire home/apt,4,1,2,3,within an hour,1,1,t,t,t
+40,88,5,350,28,Wallingford,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+175,95,4,100,75,Wallingford,House,Entire home/apt,4,1,2,1,within an hour,1,1,f,t,t
+80,96,69,100,40,Wallingford,House,Entire home/apt,3,1,1,2,within a few hours,1,1,f,t,t
+105,100,3,missing,missing,Wallingford,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,f
+400,missing,0,250,150,Wallingford,House,Entire home/apt,8,3.5,3,3,within an hour,1,1,t,t,t
+100,98,12,500,50,Wallingford,Apartment,Entire home/apt,4,1,2,3,within an hour,1,1,f,t,f
+40,94,7,350,35,Wallingford,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+160,98,30,500,20,Wallingford,House,Entire home/apt,6,1,2,4,within an hour,1,1,t,t,t
+55,94,64,missing,missing,Wallingford,House,Private room,2,1,1,1,within a day,0.93,1,f,t,t
+55,93,16,300,30,Wallingford,House,Private room,3,1,1,2,within an hour,0.8,1,f,t,t
+150,100,14,missing,30,Wallingford,House,Private room,2,2.5,1,1,within a few hours,1,1,t,t,t
+55,missing,0,missing,missing,Wallingford,House,Private room,2,1,1,2,missing,missing,missing,f,t,f
+95,93,17,200,50,Wallingford,House,Entire home/apt,6,1,2,2,within a few hours,1,1,f,t,t
+155,80,1,500,100,Wallingford,House,Entire home/apt,4,1,2,2,within a few hours,1,1,f,t,t
+55,99,17,missing,25,Wallingford,House,Private room,2,1,1,1,within an hour,1,1,t,t,t
+40,95,4,350,35,Wallingford,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+250,93,4,400,100,Wallingford,House,Entire home/apt,7,2,3,5,within an hour,1,1,f,t,t
+145,96,44,150,50,Wallingford,House,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+54,91,100,missing,15,Wallingford,House,Private room,2,1,1,1,within an hour,1,1,f,t,t
+99,100,3,100,missing,Wallingford,House,Entire home/apt,4,1,1,1,within an hour,1,1,f,t,t
+254,97,70,300,125,Wallingford,House,Entire home/apt,8,3,3,3,within an hour,1,1,t,t,t
+65,99,36,500,10,Wallingford,House,Private room,2,1,1,1,within a day,0.7,1,f,t,t
+150,99,86,500,60,Wallingford,House,Entire home/apt,4,1,2,2,within an hour,1,1,t,t,t
+140,100,1,missing,30,Wallingford,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+45,97,15,250,20,Wallingford,House,Private room,3,1,1,2,within an hour,0.8,1,f,t,t
+74,89,18,100,15,Wallingford,House,Private room,3,1,1,2,within a day,1,missing,f,t,t
+60,80,1,missing,missing,Wallingford,Apartment,Private room,2,1,1,2,within an hour,1,1,f,t,t
+350,missing,0,missing,missing,Wallingford,House,Entire home/apt,5,2.5,2,3,missing,missing,missing,f,t,t
+135,99,32,350,50,Wallingford,Apartment,Entire home/apt,4,1,1,1,within an hour,1,1,f,t,t
+85,100,10,200,80,Wallingford,Apartment,Entire home/apt,2,1,1,1,within a day,1,1,t,t,t
+310,95,47,350,195,Wallingford,House,Entire home/apt,8,2,3,3,within a few hours,0.9,1,f,t,t
+40,87,3,350,35,Wallingford,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+215,missing,0,200,30,Wallingford,House,Entire home/apt,5,1,2,2,within a day,1,1,f,t,t
+245,95,38,200,145,Wallingford,House,Entire home/apt,8,2.5,3,3,within an hour,1,1,t,t,t
+65,100,25,missing,missing,Wallingford,House,Private room,2,1.5,1,1,within an hour,1,missing,f,t,f
+85,missing,0,100,40,Wallingford,House,Entire home/apt,4,1,1,2,within a few hours,1,1,f,t,f
+95,missing,0,missing,missing,Wallingford,House,Private room,2,1,1,1,within a few hours,1,missing,f,t,f
+57,92,83,missing,25,Wallingford,House,Private room,2,1,1,1,within a few hours,0.93,1,f,t,t
+120,98,44,250,22,Wallingford,House,Entire home/apt,3,1,0,1,within an hour,1,1,t,t,t
+120,88,32,200,85,Wallingford,Apartment,Entire home/apt,6,1,1,6,within a few hours,0.9,1,f,t,t
+40,100,4,missing,5,Wallingford,Apartment,Shared room,2,1,1,1,within a day,1,1,f,t,t
+490,99,24,500,225,Wallingford,House,Entire home/apt,12,3,6,6,within an hour,1,missing,t,t,t
+50,100,2,100,15,Wallingford,Apartment,Private room,2,1,1,1,within a day,1,1,f,t,f
+200,96,5,missing,45,Wallingford,House,Entire home/apt,6,1,2,2,within an hour,1,missing,f,t,t
+40,100,1,350,35,Wallingford,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+255,missing,0,500,95,Wallingford,House,Entire home/apt,2,1,1,2,within a few hours,1,1,f,t,t
+95,97,88,100,30,Wallingford,House,Private room,2,1,1,1,within an hour,1,1,t,t,t
+160,80,1,100,20,Wallingford,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,t
+55,95,49,missing,25,Wallingford,House,Private room,2,2,1,1,within an hour,1,1,t,t,t
+85,100,5,missing,20,Wallingford,House,Private room,2,1,1,1,within an hour,1,1,f,t,t
+325,missing,0,800,75,Wallingford,House,Entire home/apt,8,1,4,3,missing,missing,missing,f,t,t
+144,96,32,200,80,Wallingford,Apartment,Entire home/apt,5,1,2,3,within a day,0.8,1,f,t,t
+100,missing,0,100,30,Wallingford,House,Private room,2,1,1,1,missing,missing,missing,f,t,t
+115,95,86,missing,50,Wallingford,Apartment,Entire home/apt,4,1,0,2,within a few hours,1,1,f,t,t
+55,98,73,missing,25,Wallingford,House,Private room,2,2,1,1,within an hour,1,1,t,t,t
+95,98,11,missing,missing,Wallingford,Apartment,Entire home/apt,3,1,1,1,within a few hours,1,1,t,t,t
+95,98,68,missing,50,Minor,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,t,t,t
+90,93,52,missing,26,Minor,House,Entire home/apt,2,1,1,1,within an hour,0.9,1,f,t,t
+380,100,3,300,100,Minor,House,Entire home/apt,8,2.5,3,3,within an hour,1,1,f,t,f
+225,100,3,500,150,Minor,House,Entire home/apt,8,3,4,4,within a day,1,1,f,t,t
+60,95,12,missing,missing,Minor,House,Private room,2,1,1,1,within an hour,1,1,f,t,t
+157,98,25,missing,100,Minor,House,Entire home/apt,5,2.5,2,2,within a day,1,1,f,t,t
+110,99,43,missing,30,Minor,House,Private room,2,1,1,1,missing,missing,missing,t,t,t
+150,93,8,missing,30,Minor,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,f,t,t
+145,99,15,missing,100,Minor,House,Entire home/apt,5,1,1,2,within an hour,1,1,t,t,t
+85,92,74,250,83,Minor,House,Entire home/apt,3,1,1,1,within an hour,1,1,f,t,t
+79,95,104,300,70,Minor,Apartment,Entire home/apt,4,1,1,2,within an hour,1,1,t,t,t
+40,97,6,missing,missing,Minor,Apartment,Shared room,1,1,1,1,within a few hours,1,1,f,t,f
+49,88,79,100,5,Minor,House,Private room,2,1,1,1,within an hour,1,1,f,t,t
+330,100,4,300,75,Minor,House,Entire home/apt,7,2.5,3,4,within an hour,0.83,1,t,t,t
+150,91,96,missing,40,Minor,Apartment,Entire home/apt,4,1,2,2,within a day,0.86,1,f,t,t
+350,94,7,200,120,Minor,House,Entire home/apt,8,3,4,4,within a few hours,1,1,t,t,t
+67,90,10,missing,18,Minor,House,Private room,2,1,1,1,within an hour,1,1,f,t,t
+69,95,52,missing,missing,Minor,House,Private room,3,2,1,1,within an hour,1,1,f,t,t
+75,97,71,missing,35,Minor,House,Private room,2,1,1,1,within an hour,1,1,t,t,t
+90,91,28,missing,missing,Minor,Apartment,Private room,2,1.5,1,1,missing,missing,missing,f,t,f
+130,96,5,150,30,Minor,House,Private room,2,1,1,1,within an hour,0.83,1,t,t,t
+65,missing,0,missing,55,Minor,House,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+155,100,10,missing,25,Minor,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,t
+79,100,15,missing,missing,Minor,Apartment,Shared room,2,1,1,1,within a few hours,1,1,f,t,t
+60,92,18,missing,5,Minor,Apartment,Shared room,3,1,1,1,within a day,0.7,1,f,t,t
+115,100,1,missing,missing,Minor,Apartment,Entire home/apt,4,1,2,1,missing,missing,missing,f,t,t
+60,100,8,missing,missing,Minor,House,Private room,2,1,1,1,within an hour,1,1,f,t,t
+70,96,33,missing,missing,Minor,House,Private room,2,1,1,1,within a few hours,0.9,1,f,t,t
+80,100,3,550,35,Minor,Apartment,Private room,2,1,1,1,within an hour,1,1,f,t,t
+70,91,68,missing,missing,Minor,House,Private room,3,2,1,2,within an hour,1,1,f,t,t
+55,97,70,missing,missing,Minor,House,Private room,1,2,1,1,within an hour,1,1,f,t,t
+72,98,94,150,30,Minor,House,Private room,2,1.5,1,1,within a day,0.75,1,t,t,t
+67,100,1,missing,missing,Minor,House,Private room,2,1,1,1,within a day,0.6,1,f,t,t
+58,missing,0,missing,missing,Minor,House,Private room,2,1,1,1,within a day,0.6,1,f,t,t
+70,97,136,missing,15,Minor,House,Private room,2,1.5,1,1,within an hour,1,1,t,t,t
+81,94,51,200,5,Minor,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+58,95,49,missing,30,Minor,House,Private room,2,1.5,1,1,within an hour,1,1,t,t,t
+58,100,68,200,30,Minor,House,Private room,2,2,1,1,within a few hours,1,1,t,t,t
+100,100,4,200,35,Minor,House,Private room,1,1,1,1,within a few hours,0.8,1,t,t,t
+124,98,164,missing,missing,Minor,House,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+150,93,36,300,missing,Minor,Apartment,Entire home/apt,4,1,1,2,within a day,1,1,f,t,t
+65,95,73,missing,missing,Minor,House,Private room,2,2,1,1,within an hour,1,1,f,t,t
+225,90,6,missing,missing,Minor,House,Entire home/apt,6,2,2,2,within an hour,1,1,f,t,t
+70,100,3,missing,missing,Minor,House,Private room,2,1,1,1,missing,missing,missing,f,t,t
+105,93,8,200,60,Minor,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+158,93,16,missing,60,Minor,House,Entire home/apt,4,2,2,2,within an hour,1,1,f,t,t
+80,missing,0,missing,60,Minor,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+99,89,17,missing,19,Minor,Apartment,Private room,2,1,1,2,within an hour,1,1,f,t,f
+165,100,47,250,60,Minor,House,Entire home/apt,6,1,2,3,within an hour,1,1,t,t,t
+118,100,3,500,100,Minor,House,Private room,4,1,1,2,missing,missing,missing,f,t,t
+100,80,2,missing,missing,Minor,Apartment,Entire home/apt,2,1,1,3,missing,missing,missing,f,t,t
+90,95,33,missing,missing,Minor,House,Private room,2,1,1,1,within a few hours,0.9,1,f,t,t
+81,93,11,100,65,Minor,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+70,100,3,250,45,Minor,Apartment,Entire home/apt,3,1,1,1,within an hour,0.75,1,f,t,t
+69,99,94,missing,25,Minor,House,Private room,2,1,1,1,within an hour,1,1,t,t,t
+90,100,3,250,40,Minor,House,Entire home/apt,4,1,1,2,within an hour,1,1,f,t,t
+75,missing,0,missing,missing,Minor,House,Private room,1,1,1,1,within an hour,1,1,f,t,f
+70,100,52,200,30,Minor,House,Private room,2,2,1,1,within a few hours,1,1,t,t,t
+179,96,32,missing,missing,Minor,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,f,t,t
+105,100,8,115,25,Minor,House,Private room,2,1,1,1,within an hour,0.83,1,t,t,t
+150,93,81,missing,40,Minor,Apartment,Entire home/apt,4,1,2,2,within a day,0.86,1,f,t,t
+75,missing,0,missing,missing,Minor,Apartment,Entire home/apt,2,1,0,1,within a few hours,1,1,f,t,f
+75,100,3,missing,30,Minor,House,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+111,100,75,200,30,Minor,House,Private room,2,3,1,1,within a few hours,1,1,t,t,t
+108,100,8,120,25,Minor,House,Private room,2,1,1,2,within an hour,0.83,1,t,t,t
+82,98,24,missing,missing,Minor,Apartment,Private room,2,1,1,1,within a day,0.9,1,t,t,t
+115,96,81,250,100,Minor,House,Entire home/apt,6,1,2,3,within an hour,1,1,f,t,f
+220,92,10,missing,75,Minor,House,Entire home/apt,4,1,2,2,missing,missing,missing,f,t,t
+114,100,4,500,50,Minor,House,Entire home/apt,6,1,3,4,within a few hours,1,1,f,t,t
+59,98,95,missing,25,Minor,House,Private room,2,1,1,1,within an hour,1,1,t,t,t
+54,95,45,missing,missing,Minor,House,Private room,1,1.5,1,1,within a few hours,1,1,f,t,t
+75,99,14,missing,10,Minor,Apartment,Private room,2,1,1,1,missing,missing,missing,f,t,f
+160,95,4,400,100,Minor,House,Entire home/apt,6,2,2,2,within a day,1,missing,f,t,t
+175,100,3,missing,60,Minor,Apartment,Entire home/apt,4,1,2,2,within an hour,1,1,f,t,t
+37,89,18,missing,20,Minor,Apartment,Private room,1,1,1,1,within a few hours,1,1,f,t,t
+199,100,3,300,80,Minor,Apartment,Entire home/apt,3,2,2,2,within an hour,1,1,f,t,t
+200,90,4,missing,60,Minor,Apartment,Entire home/apt,4,1,2,2,within an hour,1,1,f,t,t
+175,72,13,300,80,Minor,House,Entire home/apt,8,1,3,3,within a few hours,0.7,1,f,t,t
+120,99,30,150,50,Minor,Apartment,Entire home/apt,4,1,1,1,within an hour,1,1,t,t,t
+160,95,4,150,25,Minor,House,Entire home/apt,4,1,2,2,within a day,1,1,f,t,f
+125,96,11,missing,missing,Minor,Apartment,Private room,4,2,1,1,within a day,0.7,1,f,t,f
+150,100,1,200,60,Minor,Apartment,Entire home/apt,4,1,2,2,within an hour,1,1,f,t,t
+175,missing,0,missing,60,Minor,Apartment,Entire home/apt,4,1,2,2,within an hour,1,1,f,t,t
+90,98,9,100,missing,Minor,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,f,t,t
+95,90,13,250,50,Minor,House,Private room,2,1,1,1,within a few hours,0.7,1,f,t,t
+92,99,28,missing,29,Minor,House,Private room,2,1,1,1,within an hour,0.67,1,t,t,f
+90,missing,0,missing,missing,Minor,House,Private room,3,1,1,2,within a day,0.6,1,f,t,t
+79,96,10,200,80,Minor,House,Private room,1,1,1,1,within a day,1,1,t,t,t
+72,95,39,150,30,Minor,House,Private room,2,1.5,1,1,within a day,0.75,1,t,t,t
+115,100,1,500,80,Minor,Apartment,Entire home/apt,6,1,2,2,within a few hours,1,1,f,t,t
+270,100,1,300,100,Minor,House,Entire home/apt,8,3.5,4,5,within an hour,1,1,f,t,f
+65,100,3,missing,55,Minor,House,Private room,2,1,1,2,within a few hours,1,1,f,t,t
+300,93,21,300,100,Minor,House,Entire home/apt,10,3.5,4,6,within a few hours,0.97,1,f,t,t
+87,99,49,200,30,Minor,House,Private room,2,3,1,1,within a few hours,1,1,t,t,t
+200,100,1,missing,missing,Minor,House,Entire home/apt,6,1.5,3,5,within an hour,1,missing,f,t,t
+156,95,4,95,25,Minor,House,Entire home/apt,3,1,1,1,within a few hours,0.89,1,f,t,t
+90,95,32,200,35,Minor,House,Private room,1,1,1,1,within a few hours,0.8,1,t,t,t
+115,100,3,100,10,Minor,House,Entire home/apt,3,1,1,1,within an hour,1,1,f,t,t
+119,100,2,300,25,Minor,House,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+220,96,25,250,125,Minor,House,Entire home/apt,6,2.5,3,4,within an hour,1,1,t,t,t
+100,90,2,200,100,Minor,House,Entire home/apt,4,1,2,2,within a few hours,1,1,f,t,t
+99,75,18,350,60,Minor,House,Entire home/apt,4,1,1,1,within a few hours,0.7,1,f,t,t
+120,83,6,missing,30,Minor,House,Private room,4,1.5,1,1,within a day,0.67,1,f,t,t
+150,93,20,missing,missing,Minor,Apartment,Entire home/apt,2,1,0,1,within a day,1,missing,f,t,f
+75,100,6,missing,10,Minor,Apartment,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+90,100,18,missing,35,Minor,House,Private room,2,1,1,1,within a few hours,0.89,1,t,t,t
+125,100,20,700,30,Minor,Apartment,Entire home/apt,3,1,1,2,within an hour,1,1,t,t,t
+90,99,16,missing,20,Minor,House,Private room,2,1,1,1,within an hour,1,1,f,t,t
+200,100,8,missing,missing,Minor,Apartment,Entire home/apt,2,2,1,1,within a few hours,1,missing,f,t,t
+200,98,40,350,75,Minor,House,Entire home/apt,4,1.5,1,2,within a few hours,1,1,t,t,t
+287,100,1,500,117,Minor,House,Entire home/apt,6,3.5,4,4,within a few hours,1,1,f,t,t
+90,missing,0,missing,missing,Minor,Apartment,Entire home/apt,2,1,0,1,missing,missing,missing,f,t,t
+90,97,51,350,45,Minor,Apartment,Entire home/apt,5,1,1,1,within an hour,1,1,t,t,t
+150,99,36,300,125,Minor,Apartment,Entire home/apt,4,1,1,3,within an hour,1,1,t,t,t
+119,98,16,missing,missing,Minor,House,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,t
+150,97,7,200,100,Minor,House,Entire home/apt,5,2.5,2,3,within a day,0.75,missing,f,t,t
+170,96,31,missing,missing,Minor,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,t,t,f
+150,100,6,600,60,Minor,House,Entire home/apt,4,1,2,3,within an hour,0.86,1,f,t,t
+144,99,28,300,60,Belltown,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,t,t,f
+999,94,54,95,85,Belltown,Apartment,Entire home/apt,4,1,1,1,within a few hours,1,1,f,t,f
+138,94,10,missing,99,Belltown,Apartment,Entire home/apt,6,2,2,3,within an hour,0.99,1,f,t,t
+145,98,17,missing,96,Belltown,Apartment,Entire home/apt,4,1,1,2,within a few hours,0.94,1,f,t,t
+125,95,4,missing,40,Belltown,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+45,80,6,missing,10,Belltown,Apartment,Shared room,1,1,1,1,a few days or more,0.33,1,f,t,f
+35,87,108,missing,missing,Belltown,Apartment,Shared room,2,1,1,1,within a day,0.7,1,f,t,f
+50,100,1,missing,missing,Belltown,Apartment,Private room,1,1,1,1,within a few hours,0.83,1,f,t,t
+120,missing,0,missing,149,Belltown,Apartment,Entire home/apt,4,1,0,1,within a day,0.88,1,f,t,t
+100,89,10,missing,25,Belltown,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,f,t,t
+120,83,28,missing,10,Belltown,Apartment,Entire home/apt,5,1,1,2,within an hour,0.92,1,f,t,t
+249,55,4,missing,100,Belltown,Apartment,Entire home/apt,3,1,1,1,within a few hours,0.97,1,f,t,t
+95,100,2,250,60,Belltown,Apartment,Entire home/apt,3,1,0,1,within an hour,1,1,f,t,t
+150,97,19,300,60,Belltown,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,t,t,f
+130,20,1,200,61,Belltown,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,f
+130,100,2,missing,164,Belltown,Apartment,Entire home/apt,4,1,0,1,within a day,0.88,1,f,t,t
+175,90,12,missing,60,Belltown,Apartment,Entire home/apt,3,1,1,1,within a few hours,1,1,f,t,t
+100,93,54,100,missing,Belltown,Apartment,Entire home/apt,3,1,0,2,within an hour,1,1,f,t,t
+129,98,31,300,61,Belltown,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,t,t,t
+90,95,13,250,65,Belltown,Apartment,Entire home/apt,4,1,0,3,within an hour,0.97,1,f,t,t
+199,72,5,missing,missing,Belltown,Apartment,Entire home/apt,4,1,2,2,missing,missing,missing,f,t,f
+75,87,76,missing,10,Belltown,Apartment,Entire home/apt,2,1,0,1,within an hour,0.92,1,f,t,t
+80,95,181,missing,35,Belltown,Apartment,Entire home/apt,3,1,1,1,within a few hours,0.86,1,f,t,t
+150,98,12,300,40,Belltown,Apartment,Entire home/apt,2,1,0,1,within a few hours,1,1,t,t,t
+95,100,6,missing,missing,Belltown,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,f
+139,98,39,300,60,Belltown,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,t,t,t
+139,100,2,200,60,Belltown,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,t,t,t
+275,93,3,missing,95,Belltown,Apartment,Entire home/apt,4,1,1,2,within a few hours,0.94,1,f,t,t
+135,94,37,100,missing,Belltown,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,f
+107,87,26,missing,96,Belltown,Apartment,Entire home/apt,4,missing,1,2,within a few hours,0.94,1,f,t,t
+150,missing,0,missing,missing,Belltown,Apartment,Entire home/apt,2,1,1,1,within a day,1,missing,f,t,f
+100,92,20,missing,96,Belltown,Apartment,Entire home/apt,4,1,1,2,within a few hours,0.94,1,f,t,t
+100,98,61,250,70,Belltown,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,t,t,t
+120,96,18,200,75,Belltown,Apartment,Entire home/apt,2,1,1,1,within a day,1,1,f,t,t
+125,92,121,300,60,Belltown,Apartment,Entire home/apt,5,1,0,1,within an hour,1,1,f,t,t
+120,97,18,200,100,Belltown,Apartment,Entire home/apt,2,1,1,1,within a day,0.8,missing,f,t,f
+150,90,11,missing,149,Belltown,Apartment,Entire home/apt,4,1,0,2,within an hour,1,1,f,t,f
+129,missing,0,missing,missing,Belltown,Apartment,Entire home/apt,2,1,0,1,missing,missing,missing,f,t,t
+140,92,13,100,50,Belltown,Apartment,Entire home/apt,2,1,0,1,within a day,1,1,f,t,t
+150,96,159,missing,missing,Belltown,Apartment,Entire home/apt,3,1,0,2,within an hour,1,1,t,t,t
+149,97,32,500,50,Belltown,Apartment,Entire home/apt,3,1,1,2,within an hour,1,1,f,t,t
+229,100,6,missing,100,Belltown,Apartment,Entire home/apt,4,2,2,2,within a few hours,1,1,t,t,t
+93,97,49,95,50,Belltown,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,t,t,t
+110,97,19,150,missing,Belltown,Apartment,Entire home/apt,3,1,0,2,within a few hours,1,1,f,t,t
+126,missing,0,300,50,Belltown,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+157,100,1,missing,159,Belltown,Apartment,Entire home/apt,2,1,1,1,within a day,0.88,1,f,t,t
+90,94,35,missing,32,Belltown,Apartment,Entire home/apt,4,1,1,1,within a few hours,0.86,1,f,t,t
+125,99,29,400,50,Belltown,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+95,98,60,missing,missing,Belltown,Apartment,Private room,2,1,1,1,within a few hours,1,1,t,t,t
+197,95,12,missing,99,Belltown,Apartment,Entire home/apt,6,2,2,3,within an hour,0.99,1,f,t,t
+155,97,14,250,95,Belltown,Apartment,Entire home/apt,5,1,1,3,within a few hours,1,1,t,t,t
+195,95,4,missing,184,Belltown,Apartment,Entire home/apt,6,1,2,2,within a day,0.88,1,f,t,t
+150,95,4,missing,99,Belltown,Apartment,Entire home/apt,6,2,2,3,within an hour,0.99,1,f,t,t
+175,95,24,missing,missing,Belltown,Apartment,Entire home/apt,3,1,1,1,within a few hours,1,1,t,t,t
+156,91,27,missing,99,Belltown,Apartment,Entire home/apt,6,2,2,3,within an hour,0.99,1,f,t,t
+320,97,22,400,150,Belltown,Apartment,Entire home/apt,6,2.5,2,2,within a day,0.5,1,f,t,t
+200,97,23,200,105,Belltown,Apartment,Entire home/apt,7,2,2,2,within a few hours,1,1,f,t,t
+200,100,5,missing,missing,Belltown,Apartment,Entire home/apt,3,1,1,2,missing,missing,missing,f,t,f
+165,96,11,missing,99,Belltown,Apartment,Entire home/apt,6,2,2,3,within an hour,0.99,1,f,t,t
+148,92,6,missing,50,Belltown,Apartment,Entire home/apt,3,1,0,1,missing,missing,missing,f,t,t
+127,100,3,missing,109,Belltown,Apartment,Entire home/apt,7,2,3,4,within an hour,0.99,1,f,t,t
+405,100,4,missing,264,Belltown,Apartment,Entire home/apt,8,3,3,4,within a day,0.88,1,f,t,t
+219,95,44,500,80,Belltown,Apartment,Entire home/apt,4,1,2,2,within an hour,1,1,t,t,t
+899,100,5,missing,159,Belltown,Apartment,Entire home/apt,10,2,3,4,within a few hours,1,missing,f,t,t
+150,missing,0,300,50,Belltown,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,f,t,t
+239,95,4,missing,209,Belltown,Apartment,Entire home/apt,6,2,2,4,within a day,0.88,1,f,t,t
+150,100,2,missing,96,Belltown,Apartment,Entire home/apt,4,1,1,2,within a few hours,0.94,1,f,t,t
+140,100,4,200,80,Belltown,Apartment,Entire home/apt,4,1,1,1,within an hour,1,missing,f,t,t
+117,87,3,missing,99,Belltown,Apartment,Entire home/apt,6,2,2,3,within an hour,0.99,1,f,t,t
+170,100,2,missing,missing,Belltown,House,Entire home/apt,3,1,1,1,within a day,0.56,1,f,t,f
+100,97,28,95,10,Belltown,Apartment,Entire home/apt,2,1,0,2,within a few hours,1,1,f,t,t
+300,100,6,missing,110,Belltown,Apartment,Entire home/apt,6,2,2,3,within a few hours,0.94,1,f,t,t
+250,missing,0,missing,100,Belltown,Apartment,Entire home/apt,4,1,1,2,within a few hours,0.94,1,f,t,t
+197,96,9,missing,113,Belltown,Apartment,Entire home/apt,6,2,2,3,within a few hours,0.94,1,f,t,t
+175,100,12,missing,107,Belltown,Apartment,Entire home/apt,6,1,2,3,within a few hours,0.94,1,f,t,t
+130,missing,0,missing,50,Belltown,Apartment,Entire home/apt,3,1,1,1,a few days or more,0.4,1,f,t,t
+131,91,15,missing,99,Belltown,Apartment,Entire home/apt,6,2,2,3,within an hour,0.99,1,f,t,t
+110,missing,0,missing,50,Belltown,Apartment,Entire home/apt,3,1,1,1,a few days or more,0.33,1,f,t,f
+125,missing,0,300,75,Belltown,Apartment,Entire home/apt,3,1,1,1,within a day,1,1,f,t,f
+200,missing,0,200,40,Belltown,Apartment,Entire home/apt,5,2,2,2,within a day,0.5,1,f,t,f
+99,missing,0,missing,25,Belltown,Apartment,Entire home/apt,2,1,0,1,missing,missing,missing,missing,missing,missing
+200,95,47,100,105,Belltown,Apartment,Entire home/apt,7,2,2,4,within a few hours,1,1,f,t,t
+89,97,6,missing,99,Belltown,Apartment,Entire home/apt,4,1,1,2,within an hour,0.99,1,f,t,t
+142,87,6,missing,99,Belltown,Apartment,Entire home/apt,6,2,2,3,within an hour,0.99,1,f,t,t
+125,94,13,300,85,Belltown,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,t
+245,80,2,200,72,Belltown,Apartment,Entire home/apt,4,1,1,1,missing,missing,missing,f,t,f
+99,missing,0,missing,109,Belltown,Apartment,Entire home/apt,7,2,3,3,within an hour,0.99,1,f,t,t
+117,85,4,missing,20,Belltown,Apartment,Entire home/apt,2,1,1,1,within a day,0.8,1,f,t,t
+215,91,9,missing,96,Belltown,Apartment,Entire home/apt,4,1,1,2,within a few hours,0.94,1,f,t,t
+215,100,3,missing,105,Belltown,Apartment,Entire home/apt,6,1,2,3,within a few hours,0.94,1,f,t,t
+275,95,22,missing,107,Belltown,Apartment,Entire home/apt,4,1,2,3,within a few hours,0.94,1,f,t,t
+175,93,24,missing,107,Belltown,Apartment,Entire home/apt,6,1,2,3,within a few hours,0.94,1,f,t,t
+195,93,16,missing,95,Belltown,Apartment,Entire home/apt,6,1,2,3,within a day,0.63,1,f,t,t
+113,90,27,100,35,Belltown,Apartment,Entire home/apt,4,1,1,1,within a few hours,0.83,1,f,t,t
+139,90,2,missing,159,Belltown,Apartment,Entire home/apt,4,1.5,1,2,within a day,0.88,1,f,t,t
+135,87,13,missing,96,Belltown,Apartment,Entire home/apt,4,missing,1,2,within a few hours,0.94,1,f,t,t
+105,missing,0,missing,50,Belltown,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,f,t,f
+100,98,45,100,80,Belltown,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,t,t,t
+106,100,4,300,100,Belltown,Apartment,Entire home/apt,4,1,1,1,within a day,0.8,1,f,t,t
+475,100,2,missing,274,Belltown,Apartment,Entire home/apt,9,2.5,3,7,within a day,0.88,1,f,t,t
+143,94,10,missing,99,Belltown,Apartment,Entire home/apt,6,2,2,3,within an hour,0.99,1,f,t,t
+205,93,20,missing,96,Belltown,Apartment,Entire home/apt,4,1,1,2,within a few hours,0.94,1,f,t,t
+80,100,1,250,65,Belltown,Apartment,Entire home/apt,4,1,0,3,within an hour,0.97,1,f,t,t
+120,99,30,missing,35,Belltown,Apartment,Entire home/apt,6,1,0,3,within an hour,1,1,t,t,t
+139,100,5,200,60,Belltown,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,t,t,t
+135,98,20,250,95,Belltown,Apartment,Entire home/apt,4,1,0,2,within a few hours,1,1,t,t,t
+90,90,7,missing,40,Belltown,Apartment,Private room,2,1,1,1,within a few hours,0.9,1,f,t,t
+139,87,3,missing,143,Belltown,Apartment,Entire home/apt,4,1,1,1,within a day,0.88,1,f,t,t
+181,80,1,missing,96,Belltown,Apartment,Entire home/apt,4,1,1,2,within a few hours,0.94,1,f,t,t
+99,97,191,missing,missing,Belltown,Apartment,Private room,2,1,1,1,within a few hours,1,1,t,t,t
+127,95,13,missing,96,Belltown,Apartment,Entire home/apt,4,1,1,2,within a few hours,0.94,1,f,t,t
+150,100,2,missing,149,Belltown,Apartment,Entire home/apt,4,1,1,2,within a day,0.88,1,f,t,t
+143,96,21,missing,99,Belltown,Apartment,Entire home/apt,6,2,2,3,within an hour,0.99,1,f,t,t
+399,80,2,missing,150,Belltown,Apartment,Entire home/apt,5,2,2,2,within a few hours,0.97,1,f,t,t
+193,88,5,missing,184,Belltown,Apartment,Entire home/apt,6,1,2,3,within a day,0.88,1,f,t,t
+160,missing,0,500,50,Belltown,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+110,92,31,95,missing,Belltown,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+135,92,24,missing,99,Belltown,Apartment,Entire home/apt,6,2,2,3,within an hour,0.99,1,f,t,t
+165,96,12,missing,96,Belltown,Apartment,Entire home/apt,4,1,1,1,within a few hours,0.94,1,f,t,t
+139,100,1,200,60,Belltown,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,t,t,t
+189,89,7,1200,99,Belltown,Apartment,Entire home/apt,4,1,1,2,missing,missing,missing,f,t,t
+140,99,14,missing,missing,Belltown,Apartment,Entire home/apt,2,1,0,1,within a few hours,1,1,f,t,t
+129,98,12,300,61,Belltown,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,t,t,t
+245,100,16,missing,99,Belltown,Apartment,Entire home/apt,6,2,2,3,within an hour,0.99,1,f,t,t
+127,100,3,missing,99,Belltown,Apartment,Entire home/apt,6,2,2,3,within an hour,0.99,1,f,t,t
+444,missing,0,missing,99,Belltown,Apartment,Entire home/apt,5,2,2,3,within an hour,0.99,1,f,t,t
+105,missing,0,200,150,Belltown,Apartment,Entire home/apt,2,2,1,2,missing,missing,missing,f,t,t
+127,100,15,missing,96,Belltown,Apartment,Entire home/apt,4,1,1,2,within a few hours,0.94,1,f,t,t
+122,93,3,missing,99,Belltown,Apartment,Entire home/apt,6,2,2,3,within an hour,0.99,1,f,t,t
+175,91,29,missing,107,Belltown,Apartment,Entire home/apt,6,1,2,3,within a few hours,0.94,1,f,t,t
+99,98,36,250,65,Belltown,Apartment,Entire home/apt,4,1,0,3,within an hour,0.97,1,f,t,t
+187,97,6,missing,90,Belltown,Apartment,Entire home/apt,4,1,1,2,within a few hours,0.94,1,f,t,t
+150,95,12,300,60,Belltown,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,t,t,f
+100,90,4,missing,20,Belltown,Apartment,Entire home/apt,2,1,1,1,within an hour,0.76,1,f,t,t
+186,89,38,missing,107,Belltown,Apartment,Entire home/apt,6,missing,2,3,within a few hours,0.94,1,f,t,t
+171,97,6,missing,99,Belltown,Apartment,Entire home/apt,6,2,2,3,within an hour,0.99,1,f,t,t
+181,96,9,missing,99,Belltown,Apartment,Entire home/apt,6,2,2,3,within an hour,0.99,1,f,t,t
+149,98,18,200,55,Belltown,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,t,t,t
+270,80,1,missing,120,Belltown,Apartment,Entire home/apt,4,1,1,2,within a day,0.64,1,f,t,t
+195,100,10,missing,113,Belltown,Apartment,Entire home/apt,6,2,2,3,within a few hours,0.94,1,f,t,t
+149,97,37,100,88,Belltown,Apartment,Entire home/apt,4,1,1,2,within a few hours,1,1,f,t,t
+230,98,10,missing,209,Belltown,Apartment,Entire home/apt,6,2,2,3,within a day,0.88,1,f,t,t
+183,missing,0,300,60,Belltown,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,t,t,t
+165,96,5,missing,99,Belltown,Apartment,Entire home/apt,6,2,2,3,within an hour,0.99,1,f,t,t
+335,100,3,missing,229,Belltown,Apartment,Entire home/apt,8,2,3,5,within a day,0.88,1,f,t,t
+75,84,5,missing,10,Belltown,Apartment,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+107,96,22,missing,96,Belltown,Apartment,Entire home/apt,4,1,1,2,within a few hours,0.94,1,f,t,t
+167,90,22,missing,99,Belltown,Apartment,Entire home/apt,6,2,2,3,within an hour,0.99,1,f,t,t
+225,missing,0,missing,missing,Belltown,Apartment,Entire home/apt,4,1,1,1,missing,missing,missing,f,t,t
+120,80,1,missing,149,Belltown,Apartment,Entire home/apt,4,1,0,2,within a day,0.88,1,f,t,t
+110,missing,0,missing,100,Belltown,Apartment,Entire home/apt,4,2,2,2,within a day,0.8,1,f,t,t
+425,90,2,missing,229,Belltown,Apartment,Entire home/apt,8,2,3,5,within a day,0.88,1,f,t,t
+139,100,5,200,60,Belltown,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,t,t,t
+149,97,48,300,60,Belltown,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,t,t,t
+149,93,27,100,88,Belltown,Apartment,Entire home/apt,4,missing,1,1,within a few hours,1,1,f,t,t
+130,95,12,450,90,Belltown,Apartment,Entire home/apt,3,1.5,1,2,within an hour,1,1,t,t,t
+115,100,1,300,50,Belltown,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,f,t,t
+159,95,28,300,95,Belltown,Apartment,Entire home/apt,2,1,1,1,within an hour,0.98,1,f,t,t
+120,90,2,missing,149,Belltown,Apartment,Entire home/apt,4,1,0,2,within a day,0.88,1,f,t,t
+100,90,123,95,45,Belltown,Apartment,Entire home/apt,4,1,0,2,within an hour,1,1,f,t,t
+110,missing,0,250,35,Belltown,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+170,99,27,300,60,Belltown,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,t,t,f
+115,94,44,missing,missing,Belltown,Apartment,Entire home/apt,2,1,0,2,within an hour,1,1,f,t,t
+112,100,2,missing,109,Belltown,Apartment,Entire home/apt,7,2,3,3,within an hour,0.99,1,f,t,t
+120,80,1,300,missing,Belltown,Apartment,Entire home/apt,2,1,1,1,within a day,1,1,f,t,f
+239,100,1,missing,209,Belltown,Apartment,Entire home/apt,6,2,2,4,within a day,0.88,1,f,t,t
+135,96,21,100,50,Belltown,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+150,99,17,missing,50,Belltown,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+197,95,5,missing,113,Belltown,Apartment,Entire home/apt,6,2,2,3,within a few hours,0.94,1,f,t,t
+106,82,23,200,61,Belltown,Apartment,Entire home/apt,3,1,1,1,missing,missing,missing,f,t,t
+139,missing,0,300,50,Belltown,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+150,93,95,missing,missing,Belltown,Apartment,Private room,2,1,1,1,missing,missing,missing,f,t,t
+149,93,95,300,60,Belltown,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,t,t,t
+115,93,37,150,45,Belltown,Apartment,Entire home/apt,3,1,1,2,within an hour,1,1,f,t,t
+175,97,24,250,95,Belltown,Apartment,Entire home/apt,6,1,2,3,within a few hours,1,1,t,t,t
+175,93,26,missing,113,Belltown,Apartment,Entire home/apt,6,2,2,3,within a few hours,0.94,1,f,t,t
+124,90,35,300,50,Belltown,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,t,t,t
+65,missing,0,missing,missing,Belltown,Apartment,Shared room,1,1,1,1,within a few hours,0.75,1,f,t,t
+229,80,1,missing,120,Belltown,Apartment,Entire home/apt,5,1,2,4,within a day,0.96,1,f,t,t
+125,95,12,missing,40,Belltown,Apartment,Private room,2,1,1,1,missing,missing,missing,f,t,f
+40,90,2,missing,missing,Belltown,Apartment,Private room,1,1,1,1,within a few hours,1,1,f,t,t
+169,99,15,150,30,Belltown,Apartment,Entire home/apt,2,1,1,1,within a day,0.8,1,t,t,t
+75,79,65,missing,10,Belltown,Apartment,Entire home/apt,2,1,0,1,within an hour,0.92,1,f,t,t
+89,96,168,missing,35,Belltown,Apartment,Entire home/apt,4,1,0,2,within an hour,1,1,t,t,t
+35,100,2,100,10,Belltown,Apartment,Shared room,4,1,1,2,within a few hours,1,1,f,t,t
+115,90,12,100,45,Belltown,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,f,t,t
+115,95,115,99,38,Belltown,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+165,95,4,150,65,Belltown,Apartment,Entire home/apt,3,1,1,2,within an hour,1,1,f,t,t
+115,96,22,300,50,Belltown,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,f,t,t
+250,missing,0,missing,missing,Belltown,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,missing,missing,missing
+166,missing,0,missing,159,Belltown,Apartment,Entire home/apt,4,1,1,2,within a day,0.88,1,f,t,t
+145,95,45,100,50,Belltown,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+250,94,68,300,25,Belltown,Apartment,Entire home/apt,6,2,2,2,within a few hours,0.83,1,f,t,t
+139,100,1,200,60,Belltown,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,t,t,t
+82,98,11,missing,75,Belltown,Apartment,Entire home/apt,4,1,1,2,within a day,0.63,1,f,t,t
+147,88,70,missing,107,Belltown,Apartment,Entire home/apt,6,1,2,3,within a few hours,0.94,1,f,t,t
+150,missing,0,missing,missing,Belltown,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,f
+187,90,6,missing,96,Belltown,Apartment,Entire home/apt,4,1,1,2,within a few hours,0.94,1,f,t,t
+80,94,170,missing,30,Belltown,Apartment,Entire home/apt,2,1,missing,1,within a few hours,0.86,1,f,t,t
+130,missing,0,missing,missing,Belltown,Apartment,Private room,2,1.5,1,1,missing,missing,missing,f,t,t
+100,90,2,missing,50,Belltown,Apartment,Entire home/apt,4,1,1,1,missing,missing,missing,f,t,t
+95,100,1,250,35,Belltown,Apartment,Shared room,2,1,1,1,within a few hours,1,1,t,f,f
+68,87,9,missing,20,Belltown,Apartment,Private room,1,1,1,1,within an hour,1,1,f,t,t
+150,80,1,missing,35,Belltown,Apartment,Entire home/apt,2,1,0,1,missing,missing,missing,f,t,t
+165,94,38,missing,75,Belltown,Apartment,Entire home/apt,4,1,1,1,within an hour,1,1,t,t,t
+117,100,2,missing,missing,Belltown,Apartment,Entire home/apt,3,1,1,2,missing,missing,missing,f,t,t
+168,98,37,100,40,Belltown,Apartment,Entire home/apt,2,1,0,1,within a few hours,0.8,1,t,t,t
+75,missing,0,250,69,Belltown,Apartment,Entire home/apt,3,1,1,1,missing,missing,missing,f,t,t
+79,100,2,missing,60,Belltown,Apartment,Entire home/apt,2,1,0,1,within a day,0.82,1,f,t,f
+50,missing,0,missing,missing,Broadway,House,Private room,1,1,1,1,missing,missing,missing,f,t,f
+59,95,4,150,50,Broadway,Apartment,Private room,1,1,1,1,within a few hours,1,1,f,t,t
+122,94,12,250,50,Broadway,Apartment,Entire home/apt,2,1,1,1,within a day,0.5,1,f,t,t
+175,90,4,missing,100,Broadway,Apartment,Entire home/apt,6,2,2,2,within a few hours,1,1,f,t,t
+69,97,124,200,12,Broadway,Apartment,Private room,2,1,1,1,within a few hours,1,1,t,t,t
+150,100,3,missing,50,Broadway,Apartment,Entire home/apt,5,1,2,2,within a day,0.5,1,f,t,f
+80,missing,0,missing,15,Broadway,Apartment,Entire home/apt,2,1,1,1,within a day,0.5,1,f,t,f
+95,95,91,300,40,Broadway,Apartment,Entire home/apt,2,1,0,1,within a few hours,0.88,1,f,t,f
+175,93,8,missing,50,Broadway,Apartment,Entire home/apt,3,1,0,1,missing,missing,missing,f,t,t
+200,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,4,1,1,3,missing,missing,missing,f,t,f
+195,97,31,missing,95,Broadway,Apartment,Entire home/apt,4,2,2,2,within an hour,1,1,f,t,f
+145,93,4,missing,20,Broadway,Apartment,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+100,96,16,missing,15,Broadway,Apartment,Entire home/apt,3,1,0,1,within an hour,1,1,f,t,t
+90,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,2,0.5,1,2,missing,missing,missing,f,t,f
+550,94,19,missing,175,Broadway,House,Entire home/apt,9,3.5,5,5,within a few hours,1,1,f,t,t
+162,80,1,missing,35,Broadway,Apartment,Private room,2,1,1,1,missing,missing,missing,f,t,t
+75,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,2,1,0,1,within a day,0.5,1,f,t,f
+185,100,1,missing,25,Broadway,Apartment,Entire home/apt,3,1,1,1,missing,missing,missing,f,t,t
+130,88,17,missing,missing,Broadway,Apartment,Entire home/apt,6,1,0,3,within an hour,1,1,f,t,f
+230,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,4,1,1,2,missing,missing,missing,f,t,f
+79,94,26,missing,missing,Broadway,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,f,t,t
+85,91,11,missing,25,Broadway,Apartment,Entire home/apt,2,1,0,1,within a few hours,0.9,1,f,t,t
+70,89,64,300,35,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+85,100,8,missing,55,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+75,missing,0,missing,25,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+95,missing,0,missing,20,Broadway,Apartment,Entire home/apt,3,1,1,2,within a day,1,1,f,t,t
+62,100,1,missing,35,Broadway,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,f
+119,96,9,350,75,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+149,98,43,200,50,Broadway,Apartment,Entire home/apt,3,1,0,1,within an hour,0.99,1,t,t,t
+139,97,19,missing,25,Broadway,Apartment,Entire home/apt,5,1,1,1,within an hour,1,1,f,t,t
+150,99,28,missing,70,Broadway,Apartment,Entire home/apt,4,1,1,2,within an hour,1,1,t,t,t
+148,70,2,missing,missing,Broadway,Apartment,Entire home/apt,2,1,1,1,within a few hours,0.89,1,f,t,f
+79,89,278,100,72,Broadway,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,f
+69,100,2,95,25,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,0.99,1,f,t,t
+147,98,55,250,125,Broadway,House,Entire home/apt,6,2.5,2,3,within a few hours,1,1,t,t,t
+256,98,70,200,60,Broadway,House,Entire home/apt,8,2.5,3,4,within an hour,1,1,t,t,t
+129,96,32,200,40,Broadway,Apartment,Entire home/apt,3,1,1,1,within an hour,0.99,1,t,t,t
+59,80,1,95,25,Broadway,Apartment,Entire home/apt,1,1,0,1,within an hour,0.99,1,f,t,t
+79,84,189,100,72,Broadway,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,f
+150,93,8,missing,70,Broadway,Apartment,Entire home/apt,4,1,1,1,within a few hours,1,1,f,t,f
+175,93,6,200,25,Broadway,Apartment,Entire home/apt,4,1,2,2,within a few hours,1,1,t,t,t
+99,100,77,175,missing,Broadway,House,Entire home/apt,2,1,missing,1,within a day,0.7,1,f,t,f
+100,90,28,200,45,Broadway,House,Entire home/apt,4,1,1,2,within an hour,1,1,f,t,t
+75,94,22,missing,35,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,0.9,1,f,t,t
+69,100,2,95,25,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,0.99,1,f,t,t
+103,96,24,400,50,Broadway,Apartment,Entire home/apt,2,1,0,1,within a few hours,1,1,f,t,f
+80,88,15,missing,50,Broadway,Apartment,Entire home/apt,2,1,0,1,within a day,1,1,f,t,t
+90,97,175,150,25,Broadway,House,Private room,2,1,1,1,within an hour,1,1,t,t,t
+150,missing,0,missing,6,Broadway,Apartment,Private room,2,1,1,1,missing,missing,missing,f,t,f
+69,99,104,300,25,Broadway,House,Private room,2,1.5,1,1,within an hour,1,1,t,t,t
+120,72,5,missing,missing,Broadway,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,t
+65,87,6,missing,missing,Broadway,House,Private room,2,1,1,1,within an hour,1,1,f,t,f
+99,100,3,250,45,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,0.99,1,t,t,t
+395,missing,0,250,175,Broadway,Apartment,Entire home/apt,6,2,3,3,within a few hours,1,1,f,t,f
+98,96,22,150,15,Broadway,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+325,90,23,150,40,Broadway,Apartment,Entire home/apt,8,2,2,3,within a few hours,1,1,f,t,t
+90,90,2,100,40,Broadway,Apartment,Entire home/apt,4,1,0,2,within an hour,1,1,f,t,f
+110,97,20,missing,15,Broadway,Apartment,Entire home/apt,2,1,0,1,within a few hours,0.78,1,f,t,t
+70,missing,0,100,50,Broadway,Apartment,Entire home/apt,4,1,1,2,within a day,0.67,1,f,t,f
+210,96,10,150,40,Broadway,Apartment,Entire home/apt,5,2,2,2,within a few hours,1,1,f,t,t
+49,100,11,250,39,Broadway,House,Private room,2,2,1,1,within a few hours,1,1,f,t,t
+120,100,6,missing,20,Broadway,Apartment,Entire home/apt,3,1,0,1,within a few hours,1,1,f,t,t
+62,87,71,missing,missing,Broadway,Apartment,Private room,1,1,1,1,within an hour,1,1,f,t,f
+70,98,38,missing,20,Broadway,House,Private room,4,2,1,1,within an hour,1,1,t,t,t
+90,missing,0,missing,25,Broadway,House,Private room,2,1.5,1,1,within a day,1,missing,f,t,t
+58,94,117,missing,25,Broadway,Apartment,Private room,2,1,1,1,within an hour,1,1,f,t,t
+150,100,3,700,100,Broadway,Apartment,Entire home/apt,4,1,1,1,a few days or more,0.25,1,f,t,t
+64,88,55,missing,missing,Broadway,House,Private room,2,1,1,1,within an hour,1,1,f,t,f
+160,95,13,missing,75,Broadway,House,Entire home/apt,4,2,2,2,within a day,1,1,f,t,t
+155,98,15,750,75,Broadway,Apartment,Entire home/apt,3,1,1,1,missing,missing,missing,f,t,t
+135,88,8,missing,missing,Broadway,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,f
+275,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,4,2,2,3,missing,missing,missing,f,t,f
+85,missing,0,missing,30,Broadway,House,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+85,missing,0,missing,30,Broadway,House,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+75,80,134,missing,missing,Broadway,House,Private room,4,1,1,2,within an hour,1,1,f,t,f
+120,97,36,missing,25,Broadway,House,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+135,95,135,300,60,Broadway,Apartment,Entire home/apt,4,1,1,1,within an hour,1,1,t,t,t
+110,missing,0,800,100,Broadway,House,Private room,4,1,1,2,within a few hours,0.86,1,t,t,t
+79,72,10,350,35,Broadway,House,Private room,2,0.5,1,1,within an hour,0.9,1,f,t,t
+79,95,132,150,25,Broadway,House,Private room,2,1.5,1,2,within a few hours,1,1,f,t,t
+220,100,2,missing,missing,Broadway,Apartment,Private room,2,1,1,1,missing,missing,missing,f,t,t
+109,89,7,missing,missing,Broadway,Apartment,Entire home/apt,2,1,0,1,within a day,0.78,1,f,t,t
+79,100,5,200,65,Broadway,Apartment,Entire home/apt,4,1,0,2,within an hour,1,1,f,t,t
+45,97,15,missing,25,Broadway,Apartment,Shared room,2,1,1,2,within an hour,0.9,1,f,t,t
+58,95,279,missing,missing,Broadway,House,Private room,1,1,1,1,within a few hours,0.95,1,f,t,t
+100,80,7,100,60,Broadway,Apartment,Entire home/apt,2,1,1,2,within an hour,1,1,f,t,f
+80,100,9,missing,50,Broadway,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+100,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,2,1,0,1,missing,missing,missing,f,t,f
+139,99,19,750,85,Broadway,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,t,t,t
+169,97,15,missing,missing,Broadway,Apartment,Entire home/apt,2,1.5,1,1,within a few hours,0.88,1,f,t,t
+114,100,6,95,10,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+85,97,15,125,missing,Broadway,Apartment,Entire home/apt,4,1,1,2,within an hour,1,1,f,t,t
+100,92,12,250,89,Broadway,Apartment,Entire home/apt,7,1,2,2,within a few hours,0.86,1,t,t,t
+125,96,27,500,30,Broadway,Apartment,Entire home/apt,4,1,1,1,within an hour,1,1,t,t,t
+190,missing,0,missing,50,Broadway,Apartment,Entire home/apt,4,1,0,2,within a day,1,missing,f,t,t
+100,95,8,missing,missing,Broadway,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+40,90,44,missing,missing,Broadway,House,Shared room,1,1,1,1,within an hour,1,1,f,t,f
+40,missing,0,missing,missing,Broadway,Apartment,Shared room,2,1,1,1,missing,missing,missing,f,t,f
+53,100,1,350,35,Broadway,House,Shared room,1,0.5,1,1,within an hour,0.9,1,f,t,t
+250,96,41,800,120,Broadway,Apartment,Entire home/apt,8,2,2,3,within a few hours,0.86,1,t,t,t
+65,missing,0,350,35,Broadway,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+55,96,10,350,35,Broadway,House,Shared room,1,0.5,1,1,within an hour,0.9,1,f,t,t
+53,92,5,350,35,Broadway,House,Shared room,1,0.5,1,1,within an hour,0.9,1,f,t,t
+55,80,1,350,35,Broadway,House,Shared room,1,0.5,1,1,within an hour,0.9,1,f,t,t
+49,70,4,350,35,Broadway,House,Shared room,1,0.5,1,1,within an hour,0.9,1,f,t,t
+75,92,6,missing,10,Broadway,Apartment,Private room,2,1,1,1,within a day,0.5,1,f,t,t
+89,91,294,missing,10,Broadway,Apartment,Private room,2,1,1,1,within an hour,1,1,f,t,t
+90,96,49,missing,15,Broadway,Apartment,Private room,2,1,1,1,within an hour,1,1,t,t,t
+199,94,22,300,68,Broadway,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,f
+95,99,83,missing,20,Broadway,House,Private room,2,1,1,1,within a few hours,1,1,t,t,t
+89,97,19,150,20,Broadway,House,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+110,93,12,missing,35,Broadway,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+155,92,135,missing,35,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+119,96,52,200,88,Broadway,Apartment,Entire home/apt,4,missing,1,1,within an hour,1,1,f,t,t
+25,100,2,missing,missing,Broadway,Apartment,Shared room,1,1,1,1,within an hour,1,1,f,t,t
+159,95,8,missing,50,Broadway,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,f,t,t
+125,95,8,250,60,Broadway,Apartment,Entire home/apt,5,1,1,3,within an hour,0.96,1,f,t,f
+25,85,39,missing,missing,Broadway,Apartment,Shared room,2,1,1,1,within a day,0.69,1,f,t,t
+225,91,84,250,60,Broadway,Apartment,Entire home/apt,5,1,1,3,within an hour,0.96,1,f,t,f
+140,98,8,250,35,Broadway,Apartment,Entire home/apt,2,1,1,1,within a day,0.5,1,t,t,f
+89,89,15,missing,25,Broadway,Apartment,Entire home/apt,4,1,1,2,within an hour,1,1,f,t,t
+190,93,31,missing,20,Broadway,Apartment,Entire home/apt,2,1,2,1,within an hour,1,1,f,t,t
+99,97,15,missing,25,Broadway,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,t
+49,100,2,150,30,Broadway,Apartment,Entire home/apt,3,1,1,2,within a day,1,missing,f,t,t
+100,94,51,missing,35,Broadway,House,Private room,2,1,1,1,within a day,1,1,f,t,t
+58,96,263,missing,missing,Broadway,House,Private room,1,1,1,1,within a few hours,0.95,1,f,t,t
+200,missing,0,missing,missing,Broadway,House,Private room,2,2,1,1,missing,missing,missing,f,t,t
+150,96,5,500,95,Broadway,Apartment,Entire home/apt,6,1,2,2,within a few hours,0.86,1,t,t,t
+59,97,24,missing,30,Broadway,Apartment,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+65,100,2,missing,missing,Broadway,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+80,90,2,missing,missing,Broadway,Apartment,Entire home/apt,2,1,0,1,within a day,1,1,f,t,f
+69,70,2,95,25,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,0.99,1,f,t,t
+75,missing,0,missing,missing,Broadway,House,Private room,1,missing,1,1,missing,missing,missing,f,t,t
+97,95,8,missing,27,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+174,98,19,missing,60,Broadway,Apartment,Entire home/apt,4,1,1,1,within a day,0.93,1,f,t,t
+78,missing,0,missing,missing,Broadway,House,Private room,2,1,1,2,within a few hours,0.95,1,f,t,t
+89,90,193,missing,10,Broadway,Apartment,Private room,2,1,1,1,within an hour,1,1,f,t,t
+100,94,7,missing,missing,Broadway,House,Private room,2,1,1,1,missing,missing,missing,t,t,f
+125,60,3,200,50,Broadway,Apartment,Entire home/apt,2,1,1,1,within an hour,1,missing,f,t,f
+130,80,3,missing,80,Broadway,House,Entire home/apt,4,2,2,2,within a few hours,0.75,1,f,t,t
+132,96,11,missing,missing,Broadway,Apartment,Entire home/apt,4,1,1,1,missing,missing,missing,f,t,t
+119,96,61,200,87,Broadway,Apartment,Entire home/apt,4,1,1,1,within an hour,1,1,f,t,t
+150,100,1,missing,30,Broadway,Apartment,Entire home/apt,4,1,1,2,within an hour,1,1,f,t,t
+115,95,17,250,50,Broadway,Apartment,Entire home/apt,2,1,1,2,within an hour,1,1,f,t,t
+99,missing,0,200,88,Broadway,Apartment,Entire home/apt,4,1,1,2,within a few hours,0.8,1,f,t,f
+99,missing,0,200,30,Broadway,House,Entire home/apt,2,1,1,1,within a few hours,1,1,f,t,t
+120,93,41,100,10,Broadway,House,Private room,2,1,1,1,missing,missing,missing,f,t,t
+70,90,4,missing,missing,Broadway,Apartment,Private room,2,1,1,1,within a day,0.9,1,f,t,f
+150,95,44,missing,missing,Broadway,Apartment,Private room,2,1,1,1,within a day,0.9,1,f,t,t
+145,93,29,missing,missing,Broadway,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,missing,t,t,t
+118,missing,0,missing,12,Broadway,Apartment,Private room,2,1,1,1,within a day,0.8,1,f,t,t
+100,100,2,missing,35,Broadway,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,f
+100,98,11,200,missing,Broadway,House,Private room,4,1,1,3,within an hour,1,1,f,t,t
+65,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,4,1,1,3,within a few hours,1,1,f,t,t
+115,97,6,200,10,Broadway,Apartment,Entire home/apt,3,1,0,1,within a day,0.89,1,f,t,t
+149,98,28,missing,75,Broadway,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,t,t,t
+59,93,24,100,35,Broadway,Apartment,Private room,2,1,1,1,within an hour,1,1,f,t,f
+155,70,4,1000,100,Broadway,Apartment,Entire home/apt,2,1,1,1,within a few hours,0.97,1,f,t,t
+100,100,3,200,20,Broadway,Apartment,Entire home/apt,3,1,1,2,within a day,1,1,f,t,t
+175,100,3,missing,missing,Broadway,Apartment,Entire home/apt,3,1,1,1,missing,missing,missing,f,t,t
+70,98,22,missing,missing,Broadway,Apartment,Private room,1,1,1,1,within an hour,1,1,t,t,t
+84,97,38,missing,20,Broadway,Apartment,Private room,5,1,1,2,within an hour,1,1,f,t,t
+175,100,1,missing,40,Broadway,House,Entire home/apt,4,1,2,2,within a day,1,1,f,t,t
+167,96,48,300,60,Broadway,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,t,t,t
+100,100,12,missing,50,Broadway,Apartment,Entire home/apt,2,1,0,1,within a day,1,1,t,t,f
+259,98,13,150,80,Broadway,Apartment,Entire home/apt,5,2,2,2,within a few hours,1,missing,t,t,f
+139,97,55,450,60,Broadway,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,t,t,f
+185,98,13,500,missing,Broadway,Apartment,Entire home/apt,4,1,2,2,within a few hours,1,1,f,t,t
+99,98,17,missing,missing,Broadway,Apartment,Entire home/apt,3,1,0,2,within an hour,1,1,t,t,t
+90,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,2,1,0,1,within a few hours,1,1,f,t,f
+250,100,4,500,100,Broadway,Apartment,Entire home/apt,3,1.5,2,1,missing,missing,missing,f,t,t
+100,100,2,200,25,Broadway,Apartment,Entire home/apt,3,1,1,1,within a day,1,1,f,t,t
+80,100,4,300,45,Broadway,Apartment,Entire home/apt,2,1,0,1,missing,missing,1,f,t,t
+260,90,23,500,150,Broadway,House,Entire home/apt,8,3.5,4,5,within a few hours,1,1,f,t,t
+125,100,2,missing,missing,Broadway,House,Private room,1,1,1,1,missing,missing,missing,f,t,t
+119,91,17,missing,missing,Broadway,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,f,t,t
+182,100,10,2500,300,Broadway,House,Entire home/apt,4,2.5,2,2,within a few hours,1,1,f,t,t
+69,85,255,100,72,Broadway,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,f,t,f
+90,84,9,missing,missing,Broadway,Apartment,Entire home/apt,4,1,1,1,within a few hours,1,1,f,t,t
+69,90,4,95,25,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,0.99,1,f,t,t
+130,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,3,1.5,2,2,missing,missing,missing,f,t,t
+135,100,1,200,45,Broadway,Apartment,Entire home/apt,6,1,2,2,within an hour,1,1,f,t,t
+82,missing,0,missing,25,Broadway,Apartment,Private room,2,2,1,1,within a few hours,1,1,f,t,f
+212,95,4,missing,missing,Broadway,Apartment,Entire home/apt,2,1,1,1,within a day,1,1,f,t,f
+47,94,14,missing,missing,Broadway,House,Private room,1,1,1,1,within an hour,1,1,f,t,f
+100,missing,0,200,45,Broadway,Apartment,Entire home/apt,4,1,2,2,within an hour,1,1,f,t,t
+100,80,4,100,missing,Broadway,Apartment,Entire home/apt,3,1,2,1,within a few hours,0.8,1,f,t,t
+95,95,16,500,50,Broadway,Apartment,Entire home/apt,4,1,0,2,within an hour,1,1,f,t,t
+239,100,2,500,75,Broadway,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,t
+75,60,4,95,40,Broadway,Apartment,Private room,3,1,1,2,within an hour,1,1,f,t,t
+75,73,5,missing,5,Broadway,Apartment,Private room,3,1,1,1,a few days or more,0.43,1,f,t,t
+96,100,3,missing,60,Broadway,Apartment,Entire home/apt,3,1,1,2,within a few hours,1,1,f,t,t
+80,95,105,missing,missing,Broadway,Apartment,Private room,2,1,1,1,within a few hours,0.9,1,t,t,t
+200,96,17,missing,25,Broadway,House,Entire home/apt,6,1,2,3,within a day,1,1,f,t,t
+119,100,7,300,80,Broadway,Apartment,Entire home/apt,5,1,1,3,within an hour,1,missing,f,t,t
+69,100,7,95,25,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,0.99,1,f,t,t
+85,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+69,100,1,350,28,Broadway,House,Private room,1,1,1,1,within an hour,0.9,1,f,t,t
+85,100,2,100,35,Broadway,Apartment,Private room,2,2,1,1,missing,missing,missing,f,t,t
+100,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,2,1.5,1,1,within a day,0.86,1,f,t,t
+140,98,23,150,30,Broadway,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,t
+100,100,10,missing,missing,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,t,t,t
+550,missing,0,300,175,Broadway,House,Entire home/apt,10,3,5,5,within a few hours,1,1,f,t,t
+69,missing,0,missing,40,Broadway,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+119,95,45,200,88,Broadway,Apartment,Entire home/apt,4,1,1,1,within an hour,1,1,f,t,t
+350,100,2,missing,85,Broadway,House,Entire home/apt,8,1.5,4,3,within a day,0.5,missing,f,t,f
+69,100,18,150,35,Broadway,Apartment,Private room,2,1,1,1,within a few hours,1,1,f,t,f
+48,83,7,250,39,Broadway,House,Private room,2,2,1,2,within a few hours,1,1,f,t,t
+69,96,6,250,42,Broadway,House,Private room,4,2,1,2,within a few hours,1,1,f,t,t
+61,95,14,250,39,Broadway,House,Private room,2,2,1,1,within a few hours,1,1,f,t,t
+52,91,9,250,39,Broadway,House,Private room,2,2,1,1,within a few hours,1,1,f,t,t
+95,99,109,missing,20,Broadway,House,Private room,2,1,1,1,within a few hours,1,1,t,t,t
+60,89,147,100,25,Broadway,Apartment,Private room,1,1,1,1,within an hour,1,1,f,t,t
+60,87,30,200,71,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+75,97,47,200,missing,Broadway,Apartment,Private room,1,1,1,1,within an hour,1,1,t,t,t
+100,missing,0,missing,10,Broadway,Apartment,Entire home/apt,2,1,0,1,missing,missing,missing,f,t,t
+93,96,6,500,60,Broadway,Apartment,Entire home/apt,3,1,1,1,within a day,0.9,1,f,t,t
+139,95,4,missing,194,Broadway,Apartment,Entire home/apt,4,1,2,3,within a day,0.88,1,f,t,t
+150,93,23,missing,40,Broadway,Apartment,Entire home/apt,3,1,1,1,within a day,0.86,1,f,t,t
+350,99,30,missing,100,Broadway,House,Entire home/apt,8,2.5,2,3,within a few hours,1,1,t,t,t
+125,94,19,missing,45,Broadway,Apartment,Entire home/apt,3,1.5,1,1,within an hour,1,1,f,t,t
+69,missing,0,95,25,Broadway,Apartment,Private room,2,1,1,1,within an hour,0.99,1,f,t,t
+138,94,96,100,50,Broadway,Apartment,Entire home/apt,2,1,1,1,within a few hours,0.53,1,f,t,t
+138,missing,0,missing,35,Broadway,House,Private room,2,1,1,1,missing,missing,missing,f,t,f
+95,97,46,missing,20,Broadway,House,Private room,2,2,1,1,within an hour,1,1,t,t,t
+145,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,f,t,f
+39,100,1,missing,8,Broadway,Apartment,Shared room,6,1,1,3,within a day,0.8,1,f,t,t
+115,90,4,100,25,Broadway,Apartment,Entire home/apt,2,1,0,1,within a few hours,1,1,f,t,t
+100,missing,0,100,missing,Broadway,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,f
+175,100,2,missing,90,Broadway,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,t
+55,95,19,100,20,Broadway,House,Private room,2,1,1,1,within an hour,1,1,f,t,t
+82,94,50,missing,8,Broadway,Apartment,Private room,2,1.5,1,1,within an hour,1,1,f,t,t
+360,93,26,2500,300,Broadway,House,Entire home/apt,10,2,3,5,within a few hours,1,1,f,t,t
+85,missing,0,missing,30,Broadway,House,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+150,93,7,missing,missing,Broadway,Apartment,Entire home/apt,2,1,2,1,within a day,1,1,f,t,t
+68,80,1,200,25,Broadway,Apartment,Entire home/apt,2,1,0,1,within a few hours,0.8,1,f,t,t
+600,100,1,200,50,Broadway,Apartment,Entire home/apt,6,2,2,3,within a few hours,1,missing,f,t,t
+149,90,11,200,30,Broadway,Apartment,Entire home/apt,3,1,1,2,within an hour,1,1,f,t,t
+62,missing,0,350,35,Broadway,House,Shared room,1,1,1,1,within an hour,0.9,1,f,t,t
+111,93,52,missing,missing,Broadway,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,f,t,t
+120,94,7,200,75,Broadway,Apartment,Entire home/apt,2,1,0,1,missing,missing,missing,f,t,t
+96,92,15,250,10,Broadway,Apartment,Entire home/apt,4,1,1,2,within an hour,1,1,f,t,t
+150,100,1,300,75,Broadway,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,t
+100,92,22,missing,20,Broadway,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,t
+100,80,4,missing,missing,Broadway,Apartment,Entire home/apt,2,1,1,1,within an hour,0.9,1,f,t,t
+105,87,13,100,25,Broadway,Apartment,Entire home/apt,4,1,1,2,within a day,0.8,1,f,t,t
+209,97,29,150,65,Broadway,Apartment,Entire home/apt,6,2,2,2,missing,missing,missing,t,t,f
+250,100,1,missing,missing,Broadway,Apartment,Entire home/apt,5,1,1,2,missing,missing,missing,f,t,t
+82,missing,0,500,50,Broadway,Apartment,Entire home/apt,2,1,1,1,within a few hours,0.8,1,f,t,f
+110,91,11,100,10,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,1,missing,f,t,t
+125,87,15,missing,missing,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+109,94,44,200,88,Broadway,Apartment,Entire home/apt,4,1,1,2,within an hour,1,1,f,t,t
+198,96,5,missing,120,Broadway,Apartment,Entire home/apt,6,1,2,4,within an hour,1,1,t,t,t
+160,95,8,missing,60,Broadway,Apartment,Entire home/apt,2,1,1,1,within a day,1,missing,f,t,t
+126,100,3,200,50,Broadway,Apartment,Entire home/apt,2,1,1,1,missing,missing,1,f,t,t
+99,90,24,250,100,Broadway,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,f,t,t
+49,missing,0,95,25,Broadway,Apartment,Entire home/apt,1,1,0,1,within an hour,0.99,1,f,t,t
+99,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,t,t,t
+100,91,21,missing,70,Broadway,Apartment,Entire home/apt,4,1,1,1,within a day,1,1,f,t,f
+82,93,9,missing,5,Broadway,Apartment,Private room,2,1,1,1,within an hour,1,1,f,t,t
+80,80,1,missing,50,Broadway,Apartment,Private room,1,1,1,1,missing,missing,missing,f,t,t
+65,91,9,350,35,Broadway,House,Shared room,1,0.5,1,1,within an hour,0.9,1,f,t,t
+80,96,158,150,missing,Broadway,House,Private room,4,1,1,1,within an hour,1,1,f,t,t
+39,95,66,100,18,Broadway,Apartment,Private room,2,1,1,1,within an hour,1,1,f,t,t
+49,missing,0,95,25,Broadway,Apartment,Entire home/apt,1,1,0,1,within an hour,0.99,1,f,t,t
+125,99,21,200,40,Broadway,Apartment,Entire home/apt,2,1,1,1,within a day,1,1,f,t,t
+150,87,3,missing,35,Broadway,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,t
+90,74,10,missing,missing,Broadway,Apartment,Entire home/apt,1,1,1,1,within an hour,1,1,f,t,f
+69,83,6,95,25,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,0.99,1,f,t,t
+104,100,22,150,30,Broadway,Apartment,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+180,94,8,100,80,Broadway,Apartment,Entire home/apt,5,1,1,2,within a few hours,1,missing,f,t,t
+150,94,14,missing,20,Broadway,Apartment,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+240,100,11,missing,120,Broadway,Apartment,Entire home/apt,7,2,2,4,within an hour,1,1,t,t,t
+70,100,1,missing,40,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,f
+99,missing,0,missing,25,Broadway,Apartment,Entire home/apt,4,1,0,1,missing,missing,missing,f,t,t
+673,97,21,2500,300,Broadway,House,Entire home/apt,16,2,6,9,within a few hours,1,1,f,t,t
+98,100,5,missing,25,Broadway,Apartment,Entire home/apt,3,1,1,2,within a day,0.8,1,f,t,t
+105,missing,1,missing,missing,Broadway,Apartment,Private room,4,1,1,2,within a day,1,1,f,t,t
+63,99,14,250,39,Broadway,House,Private room,2,2,1,1,within a few hours,1,1,f,t,t
+120,96,51,missing,40,Broadway,Apartment,Entire home/apt,4,1,1,2,within an hour,1,1,f,t,t
+195,97,32,missing,95,Broadway,Apartment,Entire home/apt,4,1.5,2,2,within an hour,1,1,f,t,f
+200,100,6,missing,25,Broadway,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,t
+79,93,67,150,25,Broadway,House,Private room,2,1.5,1,1,within a few hours,1,1,f,t,t
+69,missing,0,95,25,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,0.99,1,f,t,t
+195,95,25,missing,95,Broadway,Apartment,Entire home/apt,4,2,2,2,within an hour,1,1,f,t,f
+119,95,32,300,88,Broadway,Apartment,Entire home/apt,4,1,1,1,within an hour,1,1,f,t,t
+75,98,72,missing,7,Broadway,Apartment,Private room,2,1,1,1,within an hour,1,1,t,t,t
+99,94,87,missing,35,Broadway,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,t,t,t
+149,97,48,250,25,Broadway,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,f,t,t
+199,96,32,200,71,Broadway,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,t,t,t
+69,80,1,95,25,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,0.99,1,f,t,t
+69,100,2,300,24,Broadway,Apartment,Private room,2,1,1,1,within an hour,1,1,f,t,t
+49,91,7,350,35,Broadway,House,Shared room,1,0.5,1,1,within an hour,0.9,1,f,t,t
+239,97,15,missing,120,Broadway,Apartment,Entire home/apt,6,1,2,4,within an hour,1,1,t,t,t
+49,93,8,350,35,Broadway,House,Shared room,1,0.5,1,1,within an hour,0.9,1,f,t,t
+29,80,2,missing,missing,Broadway,Apartment,Shared room,2,1,1,1,within an hour,0.93,1,f,t,t
+68,91,67,missing,missing,Broadway,House,Private room,2,1,1,1,within an hour,1,1,f,t,f
+134,100,1,134,missing,Broadway,Apartment,Entire home/apt,4,1,2,2,missing,missing,missing,f,t,f
+169,94,44,300,50,Broadway,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,t,t,t
+120,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,f
+204,92,31,missing,60,Broadway,Apartment,Entire home/apt,6,1,2,3,within a day,0.93,1,f,t,t
+295,missing,0,missing,175,Broadway,Apartment,Entire home/apt,6,2.5,2,2,within a few hours,0.99,1,f,t,t
+152,95,4,missing,50,Broadway,Apartment,Entire home/apt,3,1,2,2,missing,missing,missing,f,t,t
+69,90,10,95,25,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,0.99,1,f,t,t
+420,missing,0,150,150,Broadway,House,Entire home/apt,6,2,2,3,within an hour,1,1,t,t,t
+81,100,9,200,50,Broadway,Apartment,Entire home/apt,2,1,1,1,within a day,0.5,1,f,t,t
+25,100,3,missing,missing,Broadway,Apartment,Shared room,1,1,1,1,within an hour,1,1,f,t,t
+195,99,30,250,90,Broadway,Apartment,Entire home/apt,3,1,2,2,within an hour,1,1,f,t,t
+169,91,78,250,108,Broadway,House,Entire home/apt,5,1,1,2,within an hour,1,1,f,t,t
+95,100,4,missing,25,Broadway,Apartment,Entire home/apt,3,1,0,1,within an hour,1,1,f,t,t
+100,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,3,1,2,2,within a day,1,1,f,t,t
+85,missing,0,missing,30,Broadway,House,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+400,missing,0,missing,missing,Broadway,House,Entire home/apt,6,2,3,3,within a day,1,1,f,t,t
+120,80,1,missing,missing,Broadway,Apartment,Entire home/apt,4,1,0,2,missing,missing,missing,f,t,f
+175,84,9,100,missing,Broadway,Apartment,Entire home/apt,5,1,1,3,within an hour,1,1,f,t,f
+200,84,5,missing,30,Broadway,Apartment,Entire home/apt,4,1,2,2,within an hour,1,1,f,t,f
+250,missing,0,500,120,Broadway,House,Entire home/apt,6,2.5,2,2,missing,missing,missing,f,t,t
+69,missing,0,95,20,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+129,100,12,missing,missing,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,t,t,t
+59,91,73,100,15,Broadway,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+69,missing,0,95,25,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,0.99,1,f,t,t
+75,89,20,missing,40,Broadway,Apartment,Entire home/apt,2,1,missing,1,a few days or more,0.4,1,f,t,t
+71,93,16,missing,missing,Broadway,Apartment,Entire home/apt,2,1,0,2,within a few hours,1,1,f,t,t
+49,missing,0,95,25,Broadway,Apartment,Entire home/apt,1,1,0,1,within an hour,0.99,1,f,t,t
+90,100,8,150,20,Broadway,Apartment,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+140,97,7,250,135,Broadway,Apartment,Entire home/apt,4,1,1,2,within an hour,1,1,f,t,t
+95,100,6,100,20,Broadway,Apartment,Shared room,2,1,1,1,within a day,1,0,f,t,f
+100,94,50,missing,missing,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,t,t,t
+150,97,136,missing,25,Broadway,House,Private room,2,1,1,1,missing,missing,missing,f,t,t
+89,97,38,150,20,Broadway,House,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+140,missing,0,200,50,Broadway,Apartment,Entire home/apt,5,1,1,2,within an hour,1,missing,f,t,f
+150,93,63,100,50,Broadway,Apartment,Entire home/apt,4,1,1,1,within an hour,1,1,f,t,t
+69,80,1,95,25,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,0.99,1,f,t,t
+125,95,46,missing,25,Broadway,Apartment,Entire home/apt,4,1,1,1,within an hour,1,1,f,t,t
+110,100,2,missing,25,Broadway,Apartment,Entire home/apt,4,1,1,2,within an hour,1,1,t,t,t
+152,91,77,100,missing,Broadway,Apartment,Entire home/apt,3,1,1,1,missing,missing,missing,f,t,t
+105,missing,0,missing,35,Broadway,House,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+49,90,10,350,35,Broadway,House,Shared room,1,0.5,1,1,within an hour,0.9,1,f,t,t
+68,100,2,missing,missing,Broadway,Apartment,Entire home/apt,2,1,0,1,within a day,0.65,1,f,t,t
+100,92,12,missing,35,Broadway,House,Private room,2,1,1,1,within a day,1,1,f,t,t
+120,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,3,1,1,1,within a day,0.5,1,f,t,f
+120,96,24,200,25,Broadway,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,t,t,t
+110,92,12,175,20,Broadway,Apartment,Entire home/apt,2,1,0,1,missing,missing,missing,f,t,t
+160,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,2,1,0,1,missing,missing,missing,f,t,t
+105,100,4,missing,10,Broadway,Apartment,Entire home/apt,3,1,0,1,within an hour,1,1,f,t,f
+82,92,5,missing,39,Broadway,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+110,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,1,1,0,1,missing,missing,missing,f,t,f
+126,98,29,200,40,Broadway,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,t,t,f
+65,80,4,350,35,Broadway,House,Shared room,1,0.5,1,1,within an hour,0.9,1,f,t,t
+99,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,f
+85,100,1,missing,10,Broadway,Apartment,Entire home/apt,3,1,1,1,within a day,1,1,f,t,t
+199,97,110,500,100,Broadway,Apartment,Entire home/apt,4,1,2,2,within an hour,1,1,f,t,t
+159,100,18,250,40,Broadway,House,Entire home/apt,4,1,2,2,within a few hours,1,1,f,t,t
+125,100,8,missing,missing,Broadway,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+45,missing,0,missing,missing,Broadway,Apartment,Shared room,2,1.5,1,1,within an hour,0.71,1,f,t,t
+110,90,2,missing,missing,Broadway,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,f
+110,missing,0,missing,35,Broadway,Apartment,Entire home/apt,3,1,1,2,within a few hours,0.88,1,f,t,t
+119,94,41,200,88,Broadway,Apartment,Entire home/apt,4,missing,1,1,within an hour,1,1,f,t,t
+115,missing,0,missing,65,Broadway,Apartment,Entire home/apt,2,1,1,1,within a day,1,missing,f,t,t
+60,missing,0,missing,missing,Broadway,Apartment,Entire home/apt,2,1,0,1,missing,missing,missing,f,t,f
+100,94,10,missing,25,Broadway,House,Entire home/apt,2,1,1,1,within a day,1,1,t,t,t
+150,100,2,missing,missing,Broadway,Apartment,Entire home/apt,2,2,2,2,within an hour,1,1,f,t,f
+115,100,2,missing,missing,Broadway,Apartment,Entire home/apt,4,1,1,2,within an hour,1,1,f,t,t
+139,100,24,missing,35,Broadway,House,Private room,2,1,1,1,within an hour,1,1,t,t,t
+100,86,7,95,30,Broadway,Apartment,Entire home/apt,4,1,0,2,within an hour,0.83,1,f,t,t
+300,100,2,800,150,Broadway,Apartment,Entire home/apt,8,2,2,3,within a few hours,0.86,1,t,t,t
+98,100,2,missing,25,Broadway,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,t,t,t
+200,100,1,250,100,Broadway,Apartment,Entire home/apt,5,1,4,4,missing,missing,missing,f,t,f
+89,missing,0,missing,50,Broadway,Apartment,Entire home/apt,4,1,1,2,within a day,0.75,1,f,t,f
+60,92,14,missing,missing,Broadway,Apartment,Shared room,2,1,1,1,within a day,1,1,f,t,t
+144,98,45,100,missing,Broadway,Apartment,Entire home/apt,3,1,1,2,within an hour,1,1,t,t,t
+110,97,15,missing,20,Broadway,Apartment,Entire home/apt,2,1,0,1,missing,missing,missing,f,t,t
+90,100,3,missing,missing,Broadway,Apartment,Entire home/apt,2,1,1,1,within a day,1,1,f,t,f
+189,100,2,missing,missing,Broadway,Apartment,Entire home/apt,4,1,1,1,missing,missing,missing,f,t,t
+99,100,2,100,50,Broadway,Apartment,Private room,2,1,1,1,within a day,1,missing,f,t,t
+175,missing,0,100,50,Broadway,Apartment,Entire home/apt,3,1,1,2,missing,missing,missing,f,t,f
+200,89,17,missing,missing,Fremont,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+84,90,84,200,45,Fremont,Apartment,Entire home/apt,3,1,1,1,within a few hours,1,1,f,t,t
+150,100,2,missing,missing,Fremont,House,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,t
+140,97,25,400,40,Fremont,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,t,t,t
+99,99,16,500,missing,Fremont,Apartment,Entire home/apt,2,1,1,2,within an hour,1,1,t,t,t
+149,missing,0,missing,missing,Fremont,Apartment,Entire home/apt,2,1,0,1,missing,missing,missing,f,t,f
+75,95,144,missing,10,Fremont,House,Private room,2,3,1,1,missing,missing,missing,f,t,t
+125,93,48,missing,75,Fremont,House,Entire home/apt,4,1,2,2,within a few hours,1,1,f,t,t
+138,96,44,missing,missing,Fremont,Apartment,Entire home/apt,4,1,1,1,within a day,0.6,1,t,t,f
+65,98,150,150,missing,Fremont,House,Private room,2,1.5,1,1,within an hour,1,1,t,t,t
+250,96,41,300,250,Fremont,House,Entire home/apt,4,3.5,3,3,within a few hours,0.97,1,f,t,t
+200,missing,0,missing,missing,Fremont,Apartment,Entire home/apt,2,1,2,2,missing,missing,missing,f,t,t
+100,missing,0,missing,50,Fremont,House,Entire home/apt,5,1,2,3,within a day,1,1,f,t,f
+180,90,4,500,150,Fremont,House,Entire home/apt,5,1,2,2,missing,missing,1,f,t,t
+136,missing,1,missing,missing,Fremont,Apartment,Entire home/apt,4,1,1,2,missing,missing,missing,f,t,t
+129,98,81,400,missing,Fremont,House,Entire home/apt,2,1,0,1,within a few hours,1,1,t,t,t
+61,98,33,missing,missing,Fremont,House,Private room,2,1,1,1,missing,missing,missing,t,t,f
+275,96,67,200,145,Fremont,House,Entire home/apt,8,2.5,3,3,within an hour,1,1,t,t,t
+100,missing,0,missing,missing,Fremont,Apartment,Entire home/apt,4,1,1,2,within an hour,1,1,f,t,t
+59,100,1,200,40,Fremont,House,Private room,4,1,1,2,within an hour,1,1,f,t,t
+95,missing,0,missing,missing,Fremont,Apartment,Entire home/apt,3,1,1,1,missing,missing,missing,f,t,t
+500,80,1,1900,50,Fremont,House,Entire home/apt,5,2,3,4,within an hour,1,1,f,t,t
+200,95,4,300,100,Fremont,House,Entire home/apt,3,1,1,2,within a few hours,0.9,1,f,t,t
+95,94,7,100,20,Fremont,Apartment,Entire home/apt,2,1,1,1,within an hour,1,missing,f,t,t
+99,94,10,100,40,Fremont,House,Private room,2,1,1,1,within a few hours,0.9,1,f,t,t
+55,91,69,missing,10,Fremont,House,Private room,1,1,1,1,within an hour,1,1,f,t,t
+105,98,45,missing,75,Fremont,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,t,t,t
+70,missing,0,missing,missing,Fremont,Apartment,Private room,2,1,1,1,missing,missing,missing,f,t,f
+35,missing,0,missing,missing,Fremont,Apartment,Private room,1,1,1,1,within a few hours,1,1,f,t,t
+52,99,103,missing,9,Fremont,House,Private room,1,1,1,1,within an hour,1,1,f,t,t
+57,94,77,missing,25,Fremont,House,Private room,2,1,1,1,within a few hours,0.93,1,f,t,t
+54,94,72,100,35,Fremont,House,Private room,3,1,1,2,within a few hours,1,1,f,t,t
+35,missing,0,300,20,Fremont,Apartment,Private room,1,1,1,1,missing,missing,missing,f,t,t
+50,94,58,100,35,Fremont,House,Private room,3,1,1,2,within a few hours,1,1,f,t,t
+43,88,5,300,19,Fremont,Apartment,Private room,2,1,1,1,within an hour,1,1,f,t,f
+55,94,7,missing,5,Fremont,Apartment,Shared room,2,1,1,1,within a day,1,1,f,t,t
+69,100,2,missing,5,Fremont,House,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+149,94,12,250,105,Fremont,Apartment,Entire home/apt,6,1,2,4,within a few hours,0.9,1,f,t,f
+97,95,37,missing,missing,Fremont,Apartment,Entire home/apt,4,1,1,3,within a few hours,0.86,1,f,t,t
+45,94,25,missing,10,Fremont,House,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+450,100,3,missing,missing,Fremont,House,Entire home/apt,8,3,4,4,missing,missing,missing,f,t,t
+49,100,2,missing,25,Fremont,House,Private room,1,1,1,1,within a few hours,0.9,1,t,t,t
+68,92,35,200,80,Fremont,House,Private room,2,1,1,2,within a few hours,0.9,1,f,t,t
+75,96,21,missing,25,Fremont,Apartment,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+120,80,2,missing,25,Fremont,House,Private room,4,1,1,2,missing,missing,missing,f,t,t
+195,missing,0,1500,50,Fremont,House,Private room,2,1,1,1,within an hour,1,1,f,t,t
+125,91,9,missing,40,Fremont,Apartment,Entire home/apt,5,1,1,2,within a day,1,1,f,t,f
+300,100,3,200,75,Fremont,House,Entire home/apt,12,3,4,6,missing,missing,missing,f,t,t
+200,missing,1,300,85,Fremont,Apartment,Entire home/apt,6,1,2,3,within an hour,0.92,1,f,t,t
+115,100,7,250,75,Fremont,Apartment,Entire home/apt,3,1,0,1,within an hour,0.89,1,f,t,f
+185,95,9,500,100,Fremont,Apartment,Entire home/apt,4,1,2,2,within an hour,1,1,f,t,t
+149,95,4,300,105,Fremont,Apartment,Entire home/apt,6,1,2,6,within a few hours,0.8,1,f,t,f
+52,96,40,missing,missing,Fremont,House,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+75,100,1,missing,missing,Fremont,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+70,100,76,missing,30,Fremont,House,Private room,2,1,1,1,within an hour,1,1,t,t,t
+125,96,5,300,150,Fremont,Apartment,Entire home/apt,4,1,2,3,within a day,1,1,f,t,f
+99,90,10,200,50,Fremont,Apartment,Entire home/apt,3,1,1,1,within a few hours,1,1,f,t,t
+100,97,13,missing,missing,Fremont,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,f,t,f
+75,missing,0,missing,missing,Fremont,Apartment,Entire home/apt,4,1,1,2,within a few hours,0.78,1,f,t,f
+60,100,2,missing,10,Fremont,Apartment,Private room,2,1,1,1,within an hour,1,1,f,t,t
+150,missing,1,250,40,Fremont,House,Entire home/apt,2,2,1,1,missing,missing,missing,f,t,t
+275,95,41,400,75,Fremont,House,Entire home/apt,6,1.5,3,3,within a few hours,1,1,f,t,t
+232,100,4,200,200,Fremont,Apartment,Entire home/apt,2,1,1,1,within a day,0.5,missing,f,t,t
+95,99,58,200,50,Fremont,House,Entire home/apt,2,1,0,1,within an hour,1,1,t,t,f
+200,90,10,500,100,Fremont,House,Entire home/apt,6,2.5,3,4,within a few hours,0.75,1,f,t,t
+50,86,17,missing,20,Fremont,House,Private room,2,1,1,1,within an hour,1,1,f,t,f
+85,97,6,missing,missing,Fremont,Apartment,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+90,99,16,missing,missing,Fremont,Apartment,Private room,2,1,1,1,a few days or more,0.33,missing,f,t,t
+120,missing,0,missing,10,Fremont,Apartment,Entire home/apt,4,1,1,1,missing,missing,missing,f,t,t
+89,94,37,150,missing,Fremont,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,f,t,t
+65,91,7,missing,15,Fremont,House,Private room,2,1,1,1,within an hour,1,1,f,t,t
+125,96,36,100,10,Fremont,Apartment,Entire home/apt,2,1.5,1,1,within an hour,1,1,f,t,f
+67,95,4,100,20,Fremont,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,f,t,f
+100,90,19,missing,missing,Fremont,House,Entire home/apt,3,1,2,2,within a few hours,1,1,f,t,t
+150,97,34,missing,60,Fremont,House,Entire home/apt,4,2,2,2,within a day,1,1,f,t,t
+115,93,11,missing,50,Fremont,Apartment,Entire home/apt,4,1,1,2,within an hour,0.9,1,f,t,t
+210,100,4,missing,264,Fremont,House,Entire home/apt,6,2.5,3,3,within a day,0.88,1,f,t,t
+195,94,25,200,78,Fremont,House,Entire home/apt,3,1,2,1,within an hour,0.93,1,f,t,f
+59,96,23,missing,missing,Fremont,House,Private room,1,1,1,1,within a few hours,1,1,t,t,t
+110,96,48,500,missing,Fremont,Apartment,Entire home/apt,4,1,1,2,within an hour,1,1,t,t,t
+100,missing,0,missing,missing,Fremont,Apartment,Private room,2,1,1,1,missing,missing,missing,f,t,f
+235,97,6,missing,229,Fremont,House,Entire home/apt,6,2.5,3,4,within a day,0.88,1,f,t,t
+99,missing,0,200,88,Fremont,Apartment,Entire home/apt,4,1,1,2,within a few hours,0.9,1,f,t,f
+115,98,125,missing,40,Fremont,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,t,t,t
+400,100,4,100,15,Fremont,House,Entire home/apt,6,1.5,3,3,within a few hours,1,1,f,t,t
+62,100,1,missing,25,Fremont,House,Private room,1,1,1,1,missing,missing,missing,f,t,t
+135,100,2,missing,20,Fremont,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,t
+119,100,1,200,88,Fremont,Apartment,Entire home/apt,4,1,1,4,within a few hours,0.8,1,f,t,f
+200,99,20,95,85,Fremont,House,Entire home/apt,4,1,2,2,within an hour,1,1,t,t,t
+160,96,38,100,40,Fremont,Apartment,Entire home/apt,4,1,2,2,within an hour,1,1,t,t,t
+400,100,4,200,125,Fremont,House,Entire home/apt,8,2.5,3,3,within an hour,1,1,t,t,t
+225,95,8,200,100,Fremont,House,Entire home/apt,4,1,2,2,within a few hours,1,1,f,t,t
+240,93,44,missing,missing,Fremont,House,Entire home/apt,7,1,3,7,within a day,0.75,1,f,t,t
+50,100,2,missing,missing,Fremont,House,Private room,1,1.5,1,1,within a day,0.8,1,f,t,f
+165,100,6,300,60,Fremont,House,Entire home/apt,3,1,1,2,within a day,0.67,missing,f,t,f
+350,94,20,350,175,Fremont,House,Entire home/apt,6,2.5,3,4,within a few hours,1,1,f,t,t
+85,93,15,220,20,Fremont,House,Entire home/apt,2,1,1,1,missing,missing,missing,f,t,t
+150,88,8,250,105,Fremont,Apartment,Entire home/apt,6,1,2,3,within a few hours,0.9,1,f,t,f
+78,100,8,missing,missing,Fremont,Apartment,Entire home/apt,3,1,1,2,within an hour,1,1,f,t,t
+50,missing,1,missing,missing,Fremont,Apartment,Private room,2,1,1,1,missing,missing,missing,f,t,t
+135,100,1,missing,missing,Fremont,Apartment,Entire home/apt,4,1,2,2,within an hour,0.92,1,f,t,t
+105,98,37,missing,35,Fremont,Apartment,Entire home/apt,2,1,0,1,within an hour,1,1,t,t,t
+99,96,35,100,67,Fremont,Apartment,Entire home/apt,2,1,1,1,within a few hours,0.67,1,f,t,t
+65,100,4,missing,10,Fremont,Apartment,Shared room,1,1,1,1,within a day,1,missing,f,t,t
+325,96,16,missing,125,Fremont,House,Entire home/apt,8,2.5,3,3,within an hour,1,1,t,t,t
+99,92,5,150,35,Fremont,House,Entire home/apt,4,1,3,5,within a few hours,1,1,f,t,f
+149,96,25,missing,45,Fremont,Apartment,Entire home/apt,3,1,1,1,within an hour,1,1,f,t,t
+40,100,3,missing,missing,Fremont,Apartment,Shared room,1,1,1,1,within a few hours,0.8,1,f,t,t
+115,99,65,300,60,Fremont,Apartment,Entire home/apt,2,1,1,1,missing,missing,missing,t,t,t
+150,100,1,300,85,Fremont,Apartment,Entire home/apt,6,1,2,3,within an hour,0.92,1,f,t,t
+68,98,22,missing,25,Fremont,House,Private room,2,1,1,1,within a few hours,0.9,1,t,t,t
+125,missing,0,missing,40,Fremont,House,Private room,2,2,1,1,missing,missing,missing,f,t,f
+55,missing,0,350,35,Fremont,Apartment,Entire home/apt,4,1,1,2,within an hour,1,1,f,t,f
+99,97,41,300,60,Fremont,Apartment,Entire home/apt,3,1,1,2,within an hour,1,1,t,t,t
+90,88,22,300,50,Fremont,House,Entire home/apt,2,1,1,1,within a few hours,1,1,f,t,t
+110,95,50,missing,25,Fremont,Apartment,Entire home/apt,2,1,1,1,within an hour,1,1,t,t,t
+80,96,5,missing,missing,Fremont,Apartment,Entire home/apt,3,1,1,1,within a day,1,1,f,t,f
+260,98,8,missing,229,Fremont,House,Entire home/apt,6,2.5,3,4,within an hour,1,1,f,t,f
+115,99,14,199,60,Fremont,Apartment,Entire home/apt,4,1,1,2,within an hour,1,1,f,t,t
+60,90,23,missing,10,Fremont,House,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+175,98,75,250,50,Fremont,Apartment,Entire home/apt,6,1,2,3,within an hour,1,1,t,t,t
+85,100,11,100,40,Fremont,House,Private room,2,1,1,1,within a few hours,1,1,f,t,t
+109,missing,0,200,45,Fremont,Apartment,Entire home/apt,4,1,1,1,within an hour,1,missing,f,t,f
+109,98,78,200,55,Fremont,House,Entire home/apt,4,1,0,2,within an hour,1,1,t,t,t
+107,90,21,missing,40,Fremont,Apartment,Entire home/apt,2,1,1,1,within a few hours,0.8,1,f,t,t
+70,100,1,200,missing,Fremont,House,Entire home/apt,2,1,0,1,within an hour,1,1,f,t,t
+77,98,128,missing,15,Fremont,House,Private room,2,1,1,1,within an hour,1,1,f,t,t
+108,100,28,200,45,Fremont,Apartment,Entire home/apt,2,1,1,1,within a few hours,1,1,t,t,t
+200,missing,0,missing,missing,Fremont,House,Entire home/apt,4,1,2,2,missing,missing,missing,f,t,f
+250,95,4,250,100,Fremont,House,Entire home/apt,16,3.5,4,10,within a few hours,0.97,1,f,t,t
+125,95,12,150,45,Fremont,Apartment,Entire home/apt,2,1,0,1,within a few hours,1,1,t,t,t
+100,98,10,200,89,Fremont,Apartment,Entire home/apt,6,1,2,2,within an hour,1,1,f,t,t
+160,100,1,missing,50,Fremont,House,Entire home/apt,4,1,2,2,within an hour,1,1,t,t,t
+109,97,7,missing,25,Fremont,Apartment,Entire home/apt,2,1,0,1,within a day,1,1,f,t,f
+175,96,29,500,95,Fremont,House,Entire home/apt,6,2,3,3,within a few hours,1,1,f,t,t
+120,80,10,missing,75,Fremont,Apartment,Entire home/apt,4,1,1,1,within a day,1,1,f,t,t
+154,92,5,150,85,Fremont,House,Entire home/apt,5,1,2,3,within an hour,1,1,f,t,t
+65,100,2,missing,20,Fremont,Apartment,Entire home/apt,3,1,1,1,within a few hours,1,1,f,t,t
+95,96,73,500,missing,Fremont,Apartment,Entire home/apt,4,1,1,2,within an hour,1,1,t,t,t
+359,80,1,missing,230,Fremont,House,Entire home/apt,6,2,3,3,within a few hours,0.99,1,f,t,t
